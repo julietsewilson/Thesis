@@ -1,5 +1,3 @@
-READ ME File For 'Juliet Wilson PhD thesis data'
-
 Dataset DOI: 10.5258/SOTON/
 
 ReadMe Author: Juliet Wilson, University of Southampton, ORCID ID 0000-0003-4703-3128
