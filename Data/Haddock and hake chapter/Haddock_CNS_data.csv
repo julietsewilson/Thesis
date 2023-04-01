@@ -1,0 +1,477 @@
+FishID,Source,Location,Year_samples_collected,d13C,d15N,d34S,%C,%N,%S,CN,Species,Station,SIA_location
+285_Ns,Marine Scotland,North,2018,-16.62,13.08,17.89,42.31,13.56,0.97,3.12,Haddock,NORTH_28,NOCS
+287_Ns,Marine Scotland,North,2018,-17.92,12.99,18.04,42.58,13.35,1,3.19,Haddock,NORTH_28,NOCS
+438_Ns,Marine Scotland,North,2018,-17.79,14.13,18.49,44.41,13.99,1.05,3.17,Haddock,NORTH_04,NOCS
+441_Ns,Marine Scotland,North,2018,-17.27,14.11,18.56,43.75,13.98,0.99,3.13,Haddock,NORTH_04,NOCS
+446_Ns,Marine Scotland,North,2018,-17.95,13.17,18.54,45.7,14.3,0.98,3.2,Haddock,NORTH_24,NOCS
+689_Cel,Ifremer,Celtic,2018,-18.82,13.82,17.81,44.79,13.59,1.24,3.3,Haddock,CELTIC_06,LSMSF
+690_Cel,Ifremer,Celtic,2018,-19.09,13.15,18.99,44.63,13.13,1.12,3.4,Haddock,CELTIC_17,LSMSF
+691_Cel,Ifremer,Celtic,2018,-18.68,13.3,19.16,47.05,14.34,1.2,3.28,Haddock,CELTIC_17,LSMSF
+692_Cel,Ifremer,Celtic,2018,-18.74,13.24,18.51,46.4,13.6,1.15,3.41,Haddock,CELTIC_17,LSMSF
+693_Cel,Ifremer,Celtic,2018,-18.49,13.5,19.16,45.91,14.09,1.26,3.26,Haddock,CELTIC_17,LSMSF
+694_Cel,Ifremer,Celtic,2018,-17.94,13.68,18.2,45.67,14.04,1.2,3.25,Haddock,CELTIC_17,LSMSF
+695_Cel,Ifremer,Celtic,2018,-18.88,12.81,18.64,44.28,13.57,1.14,3.26,Haddock,CELTIC_18,LSMSF
+696_Cel,Ifremer,Celtic,2018,-20.55,12.65,18.9,47.79,12.38,1.01,3.86,Haddock,CELTIC_18,LSMSF
+697_Cel,Ifremer,Celtic,2018,-19.05,12.92,19.04,47.68,14.5,1.16,3.29,Haddock,CELTIC_18,LSMSF
+698_Cel,Ifremer,Celtic,2018,-19.33,12.96,19.02,46.34,13.91,1.23,3.33,Haddock,CELTIC_18,LSMSF
+699_Cel,Ifremer,Celtic,2018,-19.29,12.66,18.56,46.19,13.77,1.17,3.35,Haddock,CELTIC_18,LSMSF
+700_Cel,Ifremer,Celtic,2018,-19.21,12.69,18.96,47.16,14.11,1.12,3.34,Haddock,CELTIC_25,LSMSF
+701_Cel,Ifremer,Celtic,2018,-18.55,12.54,18.03,48.79,13.66,1.01,3.57,Haddock,CELTIC_09,LSMSF
+702_Cel,Ifremer,Celtic,2018,-18.67,12.35,19.19,45.24,13.63,1.14,3.32,Haddock,CELTIC_09,LSMSF
+703_Cel,Ifremer,Celtic,2018,-18.15,13.05,18.92,47.87,14.41,1.14,3.32,Haddock,CELTIC_09,LSMSF
+704_Cel,Ifremer,Celtic,2018,-18.44,12.91,18.85,44.56,13.65,1.18,3.26,Haddock,CELTIC_09,LSMSF
+705_Cel,Ifremer,Celtic,2018,-18.46,12.29,17.99,45.27,13.97,1.23,3.24,Haddock,CELTIC_09,LSMSF
+706_Cel,Ifremer,Celtic,2018,-18.5,13.39,17.96,45.42,13.47,1.13,3.37,Haddock,CELTIC_14,LSMSF
+707_Cel,Ifremer,Celtic,2018,-18.36,12.74,18.04,44.96,13.84,1.11,3.25,Haddock,CELTIC_14,LSMSF
+708_Cel,Ifremer,Celtic,2018,-19.09,12.41,19.18,45.62,13.69,1.13,3.33,Haddock,CELTIC_14,LSMSF
+709_Cel,Ifremer,Celtic,2018,-17.79,13.9,18.26,44.41,13.63,1.09,3.26,Haddock,CELTIC_14,LSMSF
+710_Cel,Ifremer,Celtic,2018,-18.3,13.71,17.51,45.44,13.87,1.11,3.28,Haddock,CELTIC_14,LSMSF
+711_Cel,Ifremer,Celtic,2018,-19.42,12.84,18.5,45.15,13.39,1.22,3.37,Haddock,CELTIC_10,LSMSF
+712_Cel,Ifremer,Celtic,2018,-18.68,12.78,18.98,45.65,13.71,1.21,3.33,Haddock,CELTIC_10,LSMSF
+713_Cel,Ifremer,Celtic,2018,-19.13,12.52,17.37,46.28,13.42,1.17,3.45,Haddock,CELTIC_10,LSMSF
+714_Cel,Ifremer,Celtic,2018,-18.61,12.45,19.52,45.38,13.66,1.11,3.32,Haddock,CELTIC_10,LSMSF
+715_Cel,Ifremer,Celtic,2018,-18.49,12.11,18.3,45.39,13.48,1.09,3.37,Haddock,CELTIC_10,LSMSF
+716_Cel,Ifremer,Celtic,2018,-19.2,12.11,18.46,45.35,13.05,1.19,3.48,Haddock,CELTIC_05,LSMSF
+717_Cel,Ifremer,Celtic,2018,-18.63,12.94,19.04,48.37,14.16,1.17,3.42,Haddock,CELTIC_05,LSMSF
+718_Cel,Ifremer,Celtic,2018,-18.16,13.22,18.94,44.7,13.75,1.17,3.25,Haddock,CELTIC_05,LSMSF
+719_Cel,Ifremer,Celtic,2018,-18.47,12.27,19.59,45.84,13.83,1.23,3.31,Haddock,CELTIC_05,LSMSF
+720_Cel,Ifremer,Celtic,2018,-18.01,13.09,19.2,47.27,14.52,1.19,3.26,Haddock,CELTIC_05,LSMSF
+721_Cel,Ifremer,Celtic,2018,-18.7,12.59,19.23,45.44,13.75,1.22,3.31,Haddock,CELTIC_13,LSMSF
+722_Cel,Ifremer,Celtic,2018,-18.8,12.42,19.47,45.45,13.51,1.12,3.36,Haddock,CELTIC_13,LSMSF
+723_Cel,Ifremer,Celtic,2018,-18.9,12.76,18.61,48.93,15.03,1.31,3.26,Haddock,CELTIC_13,LSMSF
+724_Cel,Ifremer,Celtic,2018,-18.7,12.81,17.06,45.36,13.47,1.15,3.37,Haddock,CELTIC_13,LSMSF
+725_Cel,Ifremer,Celtic,2018,-18.56,13.14,19.08,44.73,13.62,1.15,3.28,Haddock,CELTIC_13,LSMSF
+726_Cel,Ifremer,Celtic,2018,-18.43,12.11,18.64,45.97,13.93,1.18,3.3,Haddock,CELTIC_08,LSMSF
+727_Cel,Ifremer,Celtic,2018,-17.66,13.18,18.34,46.98,14.37,1.17,3.27,Haddock,CELTIC_08,LSMSF
+728_Cel,Ifremer,Celtic,2018,-17.55,13.83,18.81,45.52,14.14,1.16,3.22,Haddock,CELTIC_08,LSMSF
+729_Cel,Ifremer,Celtic,2018,-17.95,13.76,19.44,46.51,14.33,1.08,3.25,Haddock,CELTIC_08,LSMSF
+730_Cel,Ifremer,Celtic,2018,-18.33,13.16,19.19,44.99,13.51,1.12,3.33,Haddock,CELTIC_08,LSMSF
+731_Cel,Ifremer,Celtic,2018,-18.61,12.34,18.32,44.36,13.73,1.11,3.23,Haddock,CELTIC_16,LSMSF
+732_Cel,Ifremer,Celtic,2018,-17.76,13.11,17.43,47.14,14.05,1.18,3.35,Haddock,CELTIC_16,LSMSF
+733_Cel,Ifremer,Celtic,2018,-18.98,12.47,19.3,45.24,13.91,1.13,3.25,Haddock,CELTIC_16,LSMSF
+734_Cel,Ifremer,Celtic,2018,-18.09,13.21,18.08,45.43,13.98,1.15,3.25,Haddock,CELTIC_16,LSMSF
+735_Cel,Ifremer,Celtic,2018,-18.88,13.11,18.54,45.86,13.91,1.08,3.3,Haddock,CELTIC_16,LSMSF
+736_Cel,Ifremer,Celtic,2018,-17.57,14.88,18.97,35.49,11,0.86,3.23,Haddock,CELTIC_01,LSMSF
+737_Cel,Ifremer,Celtic,2018,-17.51,14.31,19.29,43.98,13.81,1.11,3.18,Haddock,CELTIC_01,LSMSF
+738_Cel,Ifremer,Celtic,2018,-18.56,14.1,19.93,45.81,14.11,1.13,3.25,Haddock,CELTIC_01,LSMSF
+739_Cel,Ifremer,Celtic,2018,-18.75,13.96,19.31,45.46,13.59,1.2,3.34,Haddock,CELTIC_01,LSMSF
+740_Cel,Ifremer,Celtic,2018,-18.42,14.81,19.46,46.39,13.6,1.18,3.41,Haddock,CELTIC_01,LSMSF
+578_Ice,Marine and Freshwater Research Institute,Iceland,2018,-16.87,13.83,16.93,42.62,13.54,1.14,3.15,Haddock,ICELAND_03,LSMSF
+579_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.07,13.23,17.37,44.56,13.81,1.17,3.23,Haddock,ICELAND_03,LSMSF
+580_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.03,13.49,18.57,44.54,13.94,1.26,3.2,Haddock,ICELAND_03,LSMSF
+581_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.15,13.52,17.99,44.02,13.87,1.21,3.17,Haddock,ICELAND_03,LSMSF
+582_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.51,13.16,16.83,43.85,13.81,1.09,3.18,Haddock,ICELAND_04,LSMSF
+583_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.2,13.57,18.02,44.15,13.94,1.07,3.17,Haddock,ICELAND_04,LSMSF
+585_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.29,13.68,17.96,44.08,13.77,1.14,3.2,Haddock,ICELAND_04,LSMSF
+586_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.87,13.59,17.51,44.77,14.04,1.08,3.19,Haddock,ICELAND_04,LSMSF
+587_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.52,13.95,18.07,44.04,13.37,1.13,3.29,Haddock,ICELAND_12,LSMSF
+588_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.18,14.29,17.85,42.63,13.38,1.12,3.19,Haddock,ICELAND_12,LSMSF
+589_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.84,13.29,17.53,43.51,13.39,0.95,3.25,Haddock,ICELAND_12,LSMSF
+597_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.81,11.82,17.65,43.92,13.55,0.95,3.24,Haddock,ICELAND_15,LSMSF
+598_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.58,12.38,17.18,44.38,13.84,1.28,3.21,Haddock,ICELAND_15,LSMSF
+600_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.05,12.21,17.48,43.44,13.46,1.06,3.23,Haddock,ICELAND_15,LSMSF
+601_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.76,11.87,17.88,43.26,13.63,1.03,3.17,Haddock,ICELAND_15,LSMSF
+613_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.99,13.15,17.38,41.73,13.12,1.23,3.18,Haddock,ICELAND_06,LSMSF
+614_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.5,13.76,17.54,42.58,13.16,1.31,3.23,Haddock,ICELAND_06,LSMSF
+615_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.57,13.65,17.74,43.56,13.38,1.14,3.25,Haddock,ICELAND_06,LSMSF
+616_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.56,14.6,16.67,43.18,13.48,1.26,3.2,Haddock,ICELAND_06,LSMSF
+617_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.09,13.9,16.56,43.93,13.69,1.37,3.21,Haddock,ICELAND_06,LSMSF
+623_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.82,13.54,18.99,44.38,13.73,1.22,3.23,Haddock,ICELAND_01,LSMSF
+624_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.72,12.42,18.8,44.63,13.87,1.16,3.22,Haddock,ICELAND_01,LSMSF
+625_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.07,13.58,17.91,44.04,13.77,1.28,3.2,Haddock,ICELAND_01,LSMSF
+626_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.06,13.3,18.31,44.43,13.99,1.2,3.18,Haddock,ICELAND_01,LSMSF
+627_Ice,Marine and Freshwater Research Institute,Iceland,2018,-16.71,13.33,18.13,44.27,13.96,1.35,3.17,Haddock,ICELAND_01,LSMSF
+628_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.44,14.38,16.14,43.84,13.62,1.31,3.22,Haddock,ICELAND_09,LSMSF
+630_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.3,13.72,17.74,43.21,13.43,1.16,3.22,Haddock,ICELAND_09,LSMSF
+631_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.78,13.27,18.3,44.64,13.95,1.34,3.2,Haddock,ICELAND_09,LSMSF
+632_Ice,Marine and Freshwater Research Institute,Iceland,2018,-19.02,12.29,18.52,44.07,13.38,1.11,3.29,Haddock,ICELAND_09,LSMSF
+638_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.86,12.96,17.25,42.69,13.3,1.17,3.21,Haddock,ICELAND_16,LSMSF
+640_Ice,Marine and Freshwater Research Institute,Iceland,2018,-16.86,14.03,17.24,43.83,13.56,1.33,3.23,Haddock,ICELAND_16,LSMSF
+641_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.1,13.2,17.92,44.11,13.85,1.31,3.18,Haddock,ICELAND_16,LSMSF
+642_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.13,13.79,18.97,44.29,13.76,1.29,3.22,Haddock,ICELAND_16,LSMSF
+643_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.61,11.63,14.02,44.5,13.99,0.99,3.18,Haddock,ICELAND_14,LSMSF
+644_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.43,11.98,17.2,42.71,13.48,0.99,3.17,Haddock,ICELAND_14,LSMSF
+645_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.2,11.96,16.04,44.25,14.05,0.79,3.15,Haddock,ICELAND_14,LSMSF
+646_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.75,12.02,14.75,45.59,13.93,1.05,3.27,Haddock,ICELAND_14,LSMSF
+647_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.69,12.12,17.05,43.02,13.6,1,3.16,Haddock,ICELAND_14,LSMSF
+658_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.03,14.63,18.72,44.66,14.01,1.19,3.19,Haddock,ICELAND_13,LSMSF
+659_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.46,14.73,17.49,43.54,13.72,1.18,3.17,Haddock,ICELAND_13,LSMSF
+660_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.09,14.52,17.8,44.25,13.79,1.23,3.21,Haddock,ICELAND_13,LSMSF
+661_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.86,15.61,18.48,44.91,13.77,1.18,3.26,Haddock,ICELAND_13,LSMSF
+662_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.06,14.92,18.11,42.69,13.46,1.24,3.17,Haddock,ICELAND_13,LSMSF
+663_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.2,14.91,16.82,45.49,13.91,1.4,3.27,Haddock,ICELAND_11,LSMSF
+664_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.7,13.8,16.52,44,13.61,1.37,3.23,Haddock,ICELAND_11,LSMSF
+665_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.05,14.98,13.55,43.34,13.73,1.22,3.16,Haddock,ICELAND_11,LSMSF
+666_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.34,13.93,15.62,44.6,13.58,1.21,3.28,Haddock,ICELAND_11,LSMSF
+667_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.49,13.95,16.88,44.37,13.88,1.3,3.2,Haddock,ICELAND_11,LSMSF
+741_Bis,Ifremer,Bay of Biscay,2018,-18.47,13,17.72,42.14,12.96,1.17,3.25,Haddock,BISCAY_18,LSMSF
+742_Bis,Ifremer,Bay of Biscay,2018,-18.44,13.1,17.86,42.63,13.06,1.15,3.26,Haddock,BISCAY_18,LSMSF
+743_Bis,Ifremer,Bay of Biscay,2018,-19.39,13.12,17.98,43.23,12.59,1.19,3.43,Haddock,BISCAY_18,LSMSF
+744_Bis,Ifremer,Bay of Biscay,2018,-18.64,12.85,18.12,42.1,13.14,1.19,3.2,Haddock,BISCAY_18,LSMSF
+745_Bis,Ifremer,Bay of Biscay,2018,-21.91,12.82,15.6,65.9,13.76,1.46,4.79,Haddock,BISCAY_18,LSMSF
+137_Ns,Marine Scotland,North,2018,-17.59,13.11,17.48,41.05,12.95,1.1,3.17,Haddock,NORTH_35,LSMSF
+156_Ns,Marine Scotland,North,2018,-17.24,11.98,17.27,42.03,13.31,1.2,3.16,Haddock,NORTH_29,LSMSF
+173_Ns,Marine Scotland,North,2018,-16.86,12.15,16.57,41.78,13.17,1.06,3.17,Haddock,NORTH_16,LSMSF
+193_Ns,Marine Scotland,North,2018,-17.45,13,15.84,40.96,12.99,1.12,3.15,Haddock,NORTH_01,LSMSF
+216_Ns,Marine Scotland,North,2018,-17.55,13.21,16.66,41.07,13.08,1.08,3.14,Haddock,NORTH_36,LSMSF
+226_Ns,Marine Scotland,North,2018,-17.82,12.98,17.24,41.49,13.1,1.04,3.17,Haddock,NORTH_25,LSMSF
+272_Ns,Marine Scotland,North,2018,-17.77,13.86,17,41.22,13.02,1.21,3.17,Haddock,NORTH_27,LSMSF
+284_Ns,Marine Scotland,North,2018,-18.12,12.66,16.95,41.17,12.89,1.13,3.19,Haddock,NORTH_28,LSMSF
+295_Ns,Marine Scotland,North,2018,-17.37,13.21,15.59,41.33,13,1.09,3.18,Haddock,NORTH_34,LSMSF
+296_Ns,Marine Scotland,North,2018,-17.72,12.61,13.43,41.09,12.91,1.08,3.18,Haddock,NORTH_34,LSMSF
+333_Ns,Marine Scotland,North,2018,-17.61,13.6,16.66,40.27,12.92,1.25,3.12,Haddock,NORTH_37,LSMSF
+345_Ns,Marine Scotland,North,2018,-17.18,12.68,16.47,41.46,12.96,1.12,3.2,Haddock,NORTH_31,LSMSF
+358_Ns,Marine Scotland,North,2018,-17.62,12.75,16.26,41.15,12.96,1.15,3.18,Haddock,NORTH_17,LSMSF
+359_Ns,Marine Scotland,North,2018,-17.44,13.19,15.94,41.52,12.91,1.13,3.22,Haddock,NORTH_17,LSMSF
+374_Ns,Marine Scotland,North,2018,-18.71,13,17.43,42.56,13.02,1.11,3.27,Haddock,NORTH_06,LSMSF
+440_Ns,Marine Scotland,North,2018,-18.09,13.7,16.74,41.32,13.09,1.2,3.16,Haddock,NORTH_04,LSMSF
+443_Ns,Marine Scotland,North,2018,-17.72,13.48,17.54,40.29,13.01,1.1,3.1,Haddock,NORTH_24,LSMSF
+455_Ns,Marine Scotland,North,2018,-17.96,13.11,16.65,40.9,13.12,1.12,3.12,Haddock,NORTH_19,LSMSF
+509_Ns,Marine Scotland,North,2018,-17.49,12.35,17.16,41.17,12.99,1.22,3.17,Haddock,NORTH_30,LSMSF
+511_Ns,Marine Scotland,North,2018,-17.66,12.2,16.23,39.49,12.65,1.03,3.12,Haddock,NORTH_30,LSMSF
+125_Ns,Marine Scotland,North,2018,-17.38,12.95,17.75,45.81,14.11,1.09,3.25,Haddock,NORTH_18,LSMSF
+126_Ns,Marine Scotland,North,2018,-17.99,12.21,17.92,45,13.86,1.1,3.25,Haddock,NORTH_18,LSMSF
+139_Ns,Marine Scotland,North,2018,-17.33,12.65,18.45,45.45,14.15,1.02,3.21,Haddock,NORTH_35,LSMSF
+149_Ns,Marine Scotland,North,2018,-18.45,13.04,18.66,44.76,13.67,1.04,3.28,Haddock,NORTH_11,LSMSF
+203_Ns,Marine Scotland,North,2018,-17.62,14.33,17.41,45.07,14.03,1.01,3.21,Haddock,NORTH_22,LSMSF
+204_Ns,Marine Scotland,North,2018,-17.94,13.06,15.92,43.65,13.89,1.05,3.14,Haddock,NORTH_22,LSMSF
+205_Ns,Marine Scotland,North,2018,-18.03,13.53,17.41,43.37,13.77,1.09,3.15,Haddock,NORTH_22,LSMSF
+218_Ns,Marine Scotland,North,2018,-17.37,13.35,17.88,44.01,13.75,1.02,3.2,Haddock,NORTH_36,LSMSF
+227_Ns,Marine Scotland,North,2018,-18.76,12.84,18.1,44.86,13.47,1.06,3.33,Haddock,NORTH_25,LSMSF
+249_Ns,Marine Scotland,North,2018,-18.99,11.3,18.82,47.03,14.2,1.1,3.31,Haddock,NORTH_14,LSMSF
+294_Ns,Marine Scotland,North,2018,-17.67,13.21,17.85,46.01,14.13,1.06,3.26,Haddock,NORTH_34,LSMSF
+309_Ns,Marine Scotland,North,2018,-20.37,14.02,16.49,60.03,14.14,1.2,4.24,Haddock,NORTH_23,LSMSF
+313_Ns,Marine Scotland,North,2018,-17.45,12.64,18.67,45.5,14.13,1.05,3.22,Haddock,NORTH_23,LSMSF
+322_Ns,Marine Scotland,North,2018,-17.68,12.42,17.42,45.49,14.1,1.05,3.23,Haddock,NORTH_26,LSMSF
+346_Ns,Marine Scotland,North,2018,-16.97,12.58,17.65,45.47,14.05,1.06,3.24,Haddock,NORTH_31,LSMSF
+348_Ns,Marine Scotland,North,2018,-17.76,13.81,17.63,46.32,14.12,1.09,3.28,Haddock,NORTH_31,LSMSF
+357_Ns,Marine Scotland,North,2018,-17.53,12.39,16.99,44.73,14.02,1.19,3.19,Haddock,NORTH_17,LSMSF
+360_Ns,Marine Scotland,North,2018,-18.06,12.4,18.02,45.7,13.94,1.11,3.28,Haddock,NORTH_17,LSMSF
+372_Ns,Marine Scotland,North,2018,-17.83,12.88,18.63,45.41,14.18,1.08,3.2,Haddock,NORTH_06,LSMSF
+375_Ns,Marine Scotland,North,2018,-18.36,13.02,18.57,45.72,14.12,1.03,3.24,Haddock,NORTH_06,LSMSF
+384_Ns,Marine Scotland,North,2018,-17.64,13.57,18.58,44.36,13.77,1.06,3.22,Haddock,NORTH_38,LSMSF
+407_Ns,Marine Scotland,North,2018,-18.08,12.67,17.58,43.07,13.28,0.94,3.24,Haddock,NORTH_08,LSMSF
+409_Ns,Marine Scotland,North,2018,-18.88,11.46,19.37,44.57,13.74,1.01,3.25,Haddock,NORTH_08,LSMSF
+410_Ns,Marine Scotland,North,2018,-18.01,12.22,18.47,40.25,12.58,0.97,3.2,Haddock,NORTH_08,LSMSF
+422_Ns,Marine Scotland,North,2018,-18.27,12.11,19.16,44.94,13.87,1.07,3.24,Haddock,NORTH_09,LSMSF
+439_Ns,Marine Scotland,North,2018,-18.67,13.33,18.51,46.09,14.11,1.11,3.27,Haddock,NORTH_04,LSMSF
+456_Ns,Marine Scotland,North,2018,-18.82,12.61,18.03,44.5,13.91,1.05,3.2,Haddock,NORTH_19,LSMSF
+460_Ns,Marine Scotland,North,2018,-17.69,12.85,17.38,46,14.19,1.01,3.24,Haddock,NORTH_13,LSMSF
+463_Ns,Marine Scotland,North,2018,-17.33,12.79,16.39,45.79,14.13,0.96,3.24,Haddock,NORTH_13,LSMSF
+476_Ns,Marine Scotland,North,2018,-18.95,12.24,18.71,45.53,14.13,1.1,3.22,Haddock,NORTH_07,LSMSF
+478_Ns,Marine Scotland,North,2018,-18.13,12.53,18.75,43.79,13.74,1.04,3.19,Haddock,NORTH_07,LSMSF
+482_Ns,Marine Scotland,North,2018,-18.15,12.69,17.32,44.26,13.88,0.99,3.19,Haddock,NORTH_21,LSMSF
+499_Ns,Marine Scotland,North,2018,-18.81,12.74,19.59,45.04,13.92,1.06,3.24,Haddock,NORTH_15,LSMSF
+520_Ns,Marine Scotland,North,2018,-17.88,13.11,18.14,44.07,13.89,1.09,3.17,Haddock,NORTH_02,LSMSF
+522_Ns,Marine Scotland,North,2018,-18.07,14.36,17.34,45.38,14.05,1.11,3.23,Haddock,NORTH_02,LSMSF
+639_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.07,12.68,18.04,44.86,13.78,1.16,3.25,Haddock,ICELAND_16,LSMSF
+591_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.35,13.9,17.53,44.08,13.77,0.97,3.2,Haddock,ICELAND_12,LSMSF
+629_Ice,Marine and Freshwater Research Institute,Iceland,2018,-18.83,12.52,18.22,44.33,13.86,1.18,3.2,Haddock,ICELAND_09,LSMSF
+590_Ice,Marine and Freshwater Research Institute,Iceland,2018,-19.06,13.28,18.44,44.68,13.86,1.01,3.22,Haddock,ICELAND_12,LSMSF
+599_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.8,11.68,17.92,44.48,13.79,0.96,3.23,Haddock,ICELAND_15,LSMSF
+577_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.06,13.31,17.14,44.08,13.9,0.99,3.17,Haddock,ICELAND_03,LSMSF
+584_Ice,Marine and Freshwater Research Institute,Iceland,2018,-17.72,13.02,17.23,45.28,14,1.01,3.23,Haddock,ICELAND_04,LSMSF
+51_Fa,Faroe Marine Institute,Faroes,2018,-17.99,12.41,18.36,46.03,14.31,1.03,3.22,Haddock,FAROE_04,LSMSF
+52_Fa,Faroe Marine Institute,Faroes,2018,-17.72,12.87,17.24,46.9,14.46,1.02,3.24,Haddock,FAROE_04,LSMSF
+53_Fa,Faroe Marine Institute,Faroes,2018,-17.89,13.27,18.53,46.88,14.39,1.09,3.26,Haddock,FAROE_04,LSMSF
+54_Fa,Faroe Marine Institute,Faroes,2018,-18.15,12.35,18.56,46.12,14.25,1.07,3.24,Haddock,FAROE_04,LSMSF
+55_Fa,Faroe Marine Institute,Faroes,2018,-18.44,12.09,18.99,46.96,14.54,1.06,3.23,Haddock,FAROE_04,LSMSF
+56_Fa,Faroe Marine Institute,Faroes,2018,-19.1,12.51,17.37,51.65,14.24,1.06,3.63,Haddock,FAROE_05,LSMSF
+57_Fa,Faroe Marine Institute,Faroes,2018,-18.28,12.05,18.88,44.78,13.72,1.03,3.26,Haddock,FAROE_05,LSMSF
+58_Fa,Faroe Marine Institute,Faroes,2018,-18.35,12.08,18.64,48.67,14.86,1.1,3.27,Haddock,FAROE_05,LSMSF
+59_Fa,Faroe Marine Institute,Faroes,2018,-17.57,13.1,18.42,46.43,14.07,1.08,3.3,Haddock,FAROE_05,LSMSF
+60_Fa,Faroe Marine Institute,Faroes,2018,-17.86,12.37,18.44,46.65,14.39,1.11,3.24,Haddock,FAROE_05,LSMSF
+61_Fa,Faroe Marine Institute,Faroes,2018,-17.31,12.42,18.57,45.18,14.22,1.07,3.18,Haddock,FAROE_06,LSMSF
+62_Fa,Faroe Marine Institute,Faroes,2018,-17.02,13.24,18.26,46.04,14.44,1.08,3.19,Haddock,FAROE_06,LSMSF
+63_Fa,Faroe Marine Institute,Faroes,2018,-17.16,13.53,17.87,44.25,13.76,1.03,3.21,Haddock,FAROE_06,LSMSF
+64_Fa,Faroe Marine Institute,Faroes,2018,-17.37,12.73,18.42,45.68,14.35,1.05,3.18,Haddock,FAROE_06,LSMSF
+65_Fa,Faroe Marine Institute,Faroes,2018,-17.34,13.34,18.72,46.61,14.49,1.11,3.22,Haddock,FAROE_06,LSMSF
+66_Fa,Faroe Marine Institute,Faroes,2018,-17.7,12.57,18.21,46.91,14.65,1.07,3.2,Haddock,FAROE_07,LSMSF
+67_Fa,Faroe Marine Institute,Faroes,2018,-17.86,12.79,18.08,46.18,14.34,1.07,3.22,Haddock,FAROE_07,LSMSF
+68_Fa,Faroe Marine Institute,Faroes,2018,-17.02,12.46,18.48,46.09,14.39,1.06,3.2,Haddock,FAROE_07,LSMSF
+69_Fa,Faroe Marine Institute,Faroes,2018,-17.26,12.95,18.53,46.33,14.32,1.09,3.24,Haddock,FAROE_07,LSMSF
+70_Fa,Faroe Marine Institute,Faroes,2018,-17.22,13.19,18.4,46.16,14.49,1.07,3.19,Haddock,FAROE_07,LSMSF
+1067_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.63,14.58,19.98,43.61,13.44,1.05,3.25,Haddock,BARENTS_04,LSMSF
+1068_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.55,12.7,19.59,44.59,13.79,0.89,3.23,Haddock,BARENTS_04,LSMSF
+1070_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.64,11.79,19.54,48.04,14.16,1.09,3.39,Haddock,BARENTS_04,LSMSF
+1071_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.82,13.77,18.82,43.55,13.58,0.9,3.21,Haddock,BARENTS_04,LSMSF
+1074_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.81,14.13,18.46,44.3,13.72,0.95,3.23,Haddock,BARENTS_05,LSMSF
+1075_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.87,13.36,19.23,43.48,13.63,0.98,3.19,Haddock,BARENTS_05,LSMSF
+1076_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.1,13.3,20.09,43.09,13.46,1.1,3.2,Haddock,BARENTS_05,LSMSF
+1077_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.16,14.59,18.76,43.26,13.45,0.96,3.22,Haddock,BARENTS_05,LSMSF
+1078_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.56,14.37,19.24,43.69,13.64,0.97,3.2,Haddock,BARENTS_05,LSMSF
+1079_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.34,14.05,19.25,43.91,13.58,0.94,3.23,Haddock,BARENTS_05,LSMSF
+1083_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.18,11.46,19.8,43.88,13.67,1,3.21,Haddock,BARENTS_05,LSMSF
+1084_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.6,14.54,19.5,44.3,13.81,0.95,3.21,Haddock,BARENTS_05,LSMSF
+1085_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.46,13.92,18.97,43.13,13.45,0.98,3.21,Haddock,BARENTS_05,LSMSF
+1086_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.8,14.03,19.51,44.3,13.68,1,3.24,Haddock,BARENTS_05,LSMSF
+1088_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.07,13.42,19.19,44.35,13.74,0.91,3.23,Haddock,BARENTS_10,LSMSF
+1089_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20,13.95,19.42,45.03,13.74,1.07,3.28,Haddock,BARENTS_10,LSMSF
+1091_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.07,12.97,19.62,45.35,13.98,1.07,3.24,Haddock,BARENTS_09,LSMSF
+1094_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.11,13.96,20.76,44.34,13.73,1.33,3.23,Haddock,BARENTS_02,LSMSF
+1097_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.68,13.5,20.03,44.03,13.66,1.08,3.22,Haddock,BARENTS_02,LSMSF
+1102_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.26,13.76,19.79,49.39,15.32,1.19,3.22,Haddock,BARENTS_02,LSMSF
+1104_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.88,14.24,20.1,43.42,13.52,1.07,3.21,Haddock,BARENTS_02,LSMSF
+1107_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.97,14.45,20.39,45.46,14.14,1.18,3.21,Haddock,BARENTS_02,LSMSF
+1047_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.19,13.85,18.48,44.72,13.87,1.01,3.22,Haddock,BARENTS_07,LSMSF
+1053_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.96,14.09,19.13,44.01,13.67,1.11,3.22,Haddock,BARENTS_08,LSMSF
+1054_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.07,12.94,18.8,44.45,13.88,1.03,3.2,Haddock,BARENTS_08,LSMSF
+1055_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.59,12.84,19.49,44.22,13.52,1.05,3.27,Haddock,BARENTS_08,LSMSF
+1056_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.77,14.26,19.13,45.41,14.15,1.2,3.21,Haddock,BARENTS_08,LSMSF
+1064_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.06,12.2,19.69,44.81,13.91,1.11,3.22,Haddock,BARENTS_04,LSMSF
+1065_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.91,14.64,19.11,44.91,13.86,1.14,3.24,Haddock,BARENTS_04,LSMSF
+1066_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.36,12.85,18.91,44.61,13.91,0.91,3.21,Haddock,BARENTS_04,LSMSF
+1069_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.21,11.92,19.16,44.37,13.88,1.04,3.2,Haddock,BARENTS_04,LSMSF
+1072_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.99,13.01,19.08,45.66,13.96,1.08,3.27,Haddock,BARENTS_04,LSMSF
+1073_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.77,12.91,19.34,44.72,13.89,1.14,3.22,Haddock,BARENTS_04,LSMSF
+1080_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.83,13.83,18.24,44.36,13.78,0.99,3.22,Haddock,BARENTS_05,LSMSF
+1081_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.02,13.22,19.02,43.49,13.57,0.99,3.2,Haddock,BARENTS_05,LSMSF
+1082_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.07,13.38,18.52,44.19,13.86,1.02,3.19,Haddock,BARENTS_05,LSMSF
+1087_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.14,13.99,18.02,43.49,13.89,0.89,3.13,Haddock,BARENTS_05,LSMSF
+1090_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.64,12.46,18.75,45.54,14.19,1.05,3.21,Haddock,BARENTS_09,LSMSF
+1092_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.21,13.09,18.77,45.18,14.01,0.98,3.22,Haddock,BARENTS_09,LSMSF
+1093_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-19.14,14.95,19.11,45.13,14.09,1.13,3.2,Haddock,BARENTS_09,LSMSF
+1095_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.56,12.31,19.05,44.67,13.9,1.09,3.21,Haddock,BARENTS_02,LSMSF
+1096_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.18,12.6,18.89,44.67,13.76,1.11,3.25,Haddock,BARENTS_02,LSMSF
+1098_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.53,12.9,18.1,44.02,13.89,1.15,3.17,Haddock,BARENTS_02,LSMSF
+1099_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.79,12.51,18.19,43.76,13.57,1.01,3.23,Haddock,BARENTS_02,LSMSF
+1100_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.04,12.43,18.84,44.34,13.84,1.07,3.2,Haddock,BARENTS_02,LSMSF
+1101_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.86,12.7,19.29,44.47,13.98,1.11,3.18,Haddock,BARENTS_02,LSMSF
+1103_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.59,12.17,19.04,44.85,13.9,1.08,3.23,Haddock,BARENTS_02,LSMSF
+1105_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.69,11.39,19.14,44.63,14.04,1.04,3.18,Haddock,BARENTS_02,LSMSF
+1106_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-20.47,13.85,19.29,44.06,13.83,1.09,3.18,Haddock,BARENTS_02,LSMSF
+1108_Bar,"Institute of Marine Research, Norway",Norwegian,2018,-21.7,11.96,19.03,44.08,13.75,1.04,3.21,Haddock,BARENTS_02,LSMSF
+1142_Roc,Marine Scotland,Rockall,2018,-18.76,10.83,19.07,45.5,14.09,0.98,3.23,Haddock,ROCKALL_02,LSMSF
+1143_Roc,Marine Scotland,Rockall,2018,-18.73,10.73,18.1,45.86,14.28,1.05,3.21,Haddock,ROCKALL_02,LSMSF
+1144_Roc,Marine Scotland,Rockall,2018,-18.52,10.93,18.28,45.63,14.42,1.02,3.16,Haddock,ROCKALL_02,LSMSF
+1145_Roc,Marine Scotland,Rockall,2018,-18.73,10.51,18.02,45.1,14.17,1.04,3.18,Haddock,ROCKALL_02,LSMSF
+1146_Roc,Marine Scotland,Rockall,2018,-18.65,10.71,17.86,44.72,14.11,1.01,3.17,Haddock,ROCKALL_02,LSMSF
+1147_Roc,Marine Scotland,Rockall,2018,-18.71,10.62,18,45.51,14.5,0.98,3.14,Haddock,ROCKALL_11,LSMSF
+1148_Roc,Marine Scotland,Rockall,2018,-18.71,10.62,18.57,44.73,14.22,0.99,3.15,Haddock,ROCKALL_11,LSMSF
+1149_Roc,Marine Scotland,Rockall,2018,-18.69,10.76,18.07,45.57,14.49,0.97,3.14,Haddock,ROCKALL_11,LSMSF
+1150_Roc,Marine Scotland,Rockall,2018,-18.45,11.2,18.14,45.7,14.45,1.04,3.16,Haddock,ROCKALL_11,LSMSF
+1151_Roc,Marine Scotland,Rockall,2018,-18.85,10.6,17.97,44.64,14.24,0.96,3.13,Haddock,ROCKALL_11,LSMSF
+1152_Roc,Marine Scotland,Rockall,2018,-17.92,10.48,18.11,44.71,14.19,1,3.15,Haddock,ROCKALL_07,LSMSF
+1153_Roc,Marine Scotland,Rockall,2018,-17.78,10.5,17.77,46.47,14.52,0.99,3.2,Haddock,ROCKALL_07,LSMSF
+1154_Roc,Marine Scotland,Rockall,2018,-17.97,10.63,17.96,44.9,14.18,0.95,3.17,Haddock,ROCKALL_07,LSMSF
+1155_Roc,Marine Scotland,Rockall,2018,-17.81,10.63,17.44,46.54,14.65,1.02,3.18,Haddock,ROCKALL_07,LSMSF
+1156_Roc,Marine Scotland,Rockall,2018,-17.67,10.97,17.71,45.46,14.25,0.98,3.19,Haddock,ROCKALL_07,LSMSF
+1157_Roc,Marine Scotland,Rockall,2018,-18.47,9.98,18.22,45.88,14.33,1.03,3.2,Haddock,ROCKALL_09,LSMSF
+1158_Roc,Marine Scotland,Rockall,2018,-18.57,10.09,19.04,46.69,14.12,1.05,3.31,Haddock,ROCKALL_09,LSMSF
+1159_Roc,Marine Scotland,Rockall,2018,-18.6,9.5,18.18,47.09,14.67,1.02,3.21,Haddock,ROCKALL_09,LSMSF
+1160_Roc,Marine Scotland,Rockall,2018,-18.42,10.35,18.9,46.19,14.34,1,3.22,Haddock,ROCKALL_09,LSMSF
+1161_Roc,Marine Scotland,Rockall,2018,-18.79,10.35,18.52,46.85,14.54,1.03,3.22,Haddock,ROCKALL_09,LSMSF
+1162_Roc,Marine Scotland,Rockall,2018,-18.05,10.78,18.52,46.5,14.56,1,3.19,Haddock,ROCKALL_10,LSMSF
+1163_Roc,Marine Scotland,Rockall,2018,-18.75,9.74,18.45,45.07,14.09,0.99,3.2,Haddock,ROCKALL_10,LSMSF
+1164_Roc,Marine Scotland,Rockall,2018,-18.26,9.81,18.27,46.48,14.63,1,3.18,Haddock,ROCKALL_10,LSMSF
+1165_Roc,Marine Scotland,Rockall,2018,-18.26,10.76,17.8,46.11,14.28,1,3.23,Haddock,ROCKALL_10,LSMSF
+1166_Roc,Marine Scotland,Rockall,2018,-18.77,9.59,18.51,45.12,14.15,0.98,3.19,Haddock,ROCKALL_10,LSMSF
+1167_Roc,Marine Scotland,Rockall,2018,-19.02,9.94,18.11,48.26,14.71,1.08,3.28,Haddock,ROCKALL_12,LSMSF
+1168_Roc,Marine Scotland,Rockall,2018,-18.73,10.26,18.37,46.24,14.52,1.05,3.19,Haddock,ROCKALL_12,LSMSF
+1169_Roc,Marine Scotland,Rockall,2018,-18.91,10.72,18.55,45.94,14.1,1.01,3.26,Haddock,ROCKALL_12,LSMSF
+1170_Roc,Marine Scotland,Rockall,2018,-18.55,10.54,18.53,45.9,14.2,1.03,3.23,Haddock,ROCKALL_12,LSMSF
+1171_Roc,Marine Scotland,Rockall,2018,-18.56,10.98,18.54,45.53,14.24,1.02,3.2,Haddock,ROCKALL_12,LSMSF
+1172_Roc,Marine Scotland,Rockall,2018,-18.64,10.07,18.52,46.15,14.21,1,3.25,Haddock,ROCKALL_15,LSMSF
+1173_Roc,Marine Scotland,Rockall,2018,-18.03,10.94,18.54,45.53,13.94,0.99,3.27,Haddock,ROCKALL_15,LSMSF
+1174_Roc,Marine Scotland,Rockall,2018,-18.52,11.09,18.41,46.34,14.08,1,3.29,Haddock,ROCKALL_15,LSMSF
+1175_Roc,Marine Scotland,Rockall,2018,-18.96,9.85,18.16,47.33,14.42,1.01,3.28,Haddock,ROCKALL_15,LSMSF
+1176_Roc,Marine Scotland,Rockall,2018,-18.67,10.85,18.39,45.58,13.9,0.99,3.28,Haddock,ROCKALL_15,LSMSF
+1177_Roc,Marine Scotland,Rockall,2018,-18.52,10.89,19.24,46.12,14.07,0.97,3.28,Haddock,ROCKALL_01,LSMSF
+1178_Roc,Marine Scotland,Rockall,2018,-18.23,11.15,18.61,45.83,14.42,1.06,3.18,Haddock,ROCKALL_01,LSMSF
+1179_Roc,Marine Scotland,Rockall,2018,-18.49,10.81,18.81,45.45,14.19,0.98,3.2,Haddock,ROCKALL_01,LSMSF
+1180_Roc,Marine Scotland,Rockall,2018,-19.24,11.15,17.63,50.4,14.32,1.04,3.52,Haddock,ROCKALL_01,LSMSF
+1181_Roc,Marine Scotland,Rockall,2018,-18.27,11.27,18.82,45.33,14.17,1.04,3.2,Haddock,ROCKALL_01,LSMSF
+1182_Roc,Marine Scotland,Rockall,2018,-18.29,10.8,18.25,45.59,14.32,1,3.18,Haddock,ROCKALL_13,LSMSF
+1183_Roc,Marine Scotland,Rockall,2018,-18.37,10.57,18.07,45.83,14.49,1.01,3.16,Haddock,ROCKALL_13,LSMSF
+1184_Roc,Marine Scotland,Rockall,2018,-18.51,10.64,17.4,46.78,14.71,1.05,3.18,Haddock,ROCKALL_13,LSMSF
+1185_Roc,Marine Scotland,Rockall,2018,-18.57,10.35,18.03,46.63,14.74,0.99,3.16,Haddock,ROCKALL_13,LSMSF
+1186_Roc,Marine Scotland,Rockall,2018,-18.32,10.99,18.03,46.29,14.52,1.02,3.19,Haddock,ROCKALL_13,LSMSF
+1187_Roc,Marine Scotland,Rockall,2018,-18.73,10.86,18.42,45.85,14.36,1.01,3.19,Haddock,ROCKALL_08,LSMSF
+1188_Roc,Marine Scotland,Rockall,2018,-18.69,10.13,18.31,45.69,14.32,1.04,3.19,Haddock,ROCKALL_08,LSMSF
+1189_Roc,Marine Scotland,Rockall,2018,-18.39,10.79,18.22,45.72,14.26,1.04,3.2,Haddock,ROCKALL_08,LSMSF
+1190_Roc,Marine Scotland,Rockall,2018,-18.6,11.08,18.04,47.31,14.78,1.05,3.2,Haddock,ROCKALL_08,LSMSF
+1191_Roc,Marine Scotland,Rockall,2018,-18.73,10.7,18.46,44.88,14.06,1.02,3.19,Haddock,ROCKALL_08,LSMSF
+1192_Roc,Marine Scotland,Rockall,2018,-18.7,10.77,18.74,45.05,14.27,0.99,3.16,Haddock,ROCKALL_14,LSMSF
+1193_Roc,Marine Scotland,Rockall,2018,-18.5,10.99,18.26,45.34,14.17,1.05,3.2,Haddock,ROCKALL_14,LSMSF
+1194_Roc,Marine Scotland,Rockall,2018,-18.54,10.98,18.57,44.34,13.97,1.01,3.17,Haddock,ROCKALL_14,LSMSF
+1195_Roc,Marine Scotland,Rockall,2018,-18.63,9.49,18.57,45.5,14.07,1.02,3.23,Haddock,ROCKALL_14,LSMSF
+1196_Roc,Marine Scotland,Rockall,2018,-18.5,9.95,18.7,45.3,14.28,1.02,3.17,Haddock,ROCKALL_14,LSMSF
+1197_Roc,Marine Scotland,Rockall,2018,-18.78,10.5,18.25,46.46,14.49,1.03,3.21,Haddock,ROCKALL_05,LSMSF
+1198_Roc,Marine Scotland,Rockall,2018,-18.58,10.89,17.45,46.13,14.52,0.98,3.18,Haddock,ROCKALL_05,LSMSF
+1199_Roc,Marine Scotland,Rockall,2018,-18.62,10.62,17.29,46.02,14.31,1,3.22,Haddock,ROCKALL_05,LSMSF
+1200_Roc,Marine Scotland,Rockall,2018,-18.95,9.9,18.94,45.88,14.28,0.97,3.21,Haddock,ROCKALL_05,LSMSF
+1201_Roc,Marine Scotland,Rockall,2018,-18.51,10.86,18.3,45.39,14.12,0.98,3.22,Haddock,ROCKALL_05,LSMSF
+1210_Ws,Marine Scotland,West Scotland,2018,-19.12,11.03,19.27,43.7,13.36,1,3.27,Haddock,WESTSCOT_04,LSMSF
+1211_Ws,Marine Scotland,West Scotland,2018,-18,12.12,17.57,44.25,13.86,0.98,3.19,Haddock,WESTSCOT_04,LSMSF
+1212_Ws,Marine Scotland,West Scotland,2018,-19,10.95,19.33,44.34,13.75,1.01,3.23,Haddock,WESTSCOT_04,LSMSF
+1213_Ws,Marine Scotland,West Scotland,2018,-18.41,12.17,18.62,44.52,13.79,1.02,3.23,Haddock,WESTSCOT_04,LSMSF
+1214_Ws,Marine Scotland,West Scotland,2018,-19.01,11.82,19.28,43.57,13.53,0.97,3.22,Haddock,WESTSCOT_04,LSMSF
+1215_Ws,Marine Scotland,West Scotland,2018,-18.44,11.7,19.22,45.07,13.75,1,3.28,Haddock,WESTSCOT_06,LSMSF
+1216_Ws,Marine Scotland,West Scotland,2018,-18.13,11.67,17.56,44.3,13.83,0.93,3.2,Haddock,WESTSCOT_06,LSMSF
+1217_Ws,Marine Scotland,West Scotland,2018,-18.23,11.73,19.18,43.43,13.66,0.93,3.18,Haddock,WESTSCOT_06,LSMSF
+1218_Ws,Marine Scotland,West Scotland,2018,-18.21,11.48,19.23,44.32,13.88,0.95,3.19,Haddock,WESTSCOT_06,LSMSF
+1219_Ws,Marine Scotland,West Scotland,2018,-18.17,11.78,19.5,44.36,13.72,0.98,3.23,Haddock,WESTSCOT_06,LSMSF
+1220_Ws,Marine Scotland,West Scotland,2018,-17.24,11.12,18.06,45.12,13.83,0.99,3.26,Haddock,WESTSCOT_02,LSMSF
+1221_Ws,Marine Scotland,West Scotland,2018,-17.72,12.41,18.6,44.22,13.8,1,3.21,Haddock,WESTSCOT_02,LSMSF
+1222_Ws,Marine Scotland,West Scotland,2018,-17.12,10.86,18.29,44.66,13.84,0.97,3.23,Haddock,WESTSCOT_02,LSMSF
+1223_Ws,Marine Scotland,West Scotland,2018,-18.02,11.42,17.6,45.67,14.06,0.97,3.25,Haddock,WESTSCOT_02,LSMSF
+1224_Ws,Marine Scotland,West Scotland,2018,-17.48,10.64,17.91,45.11,14.02,0.99,3.22,Haddock,WESTSCOT_02,LSMSF
+1225_Ws,Marine Scotland,West Scotland,2018,-18.47,11.69,18.54,43.96,13.94,1.01,3.15,Haddock,WESTSCOT_08,LSMSF
+1226_Ws,Marine Scotland,West Scotland,2018,-18.65,11.92,19.17,43.43,13.8,0.95,3.15,Haddock,WESTSCOT_08,LSMSF
+1227_Ws,Marine Scotland,West Scotland,2018,-18.04,12.44,18.07,43.27,13.7,0.97,3.16,Haddock,WESTSCOT_08,LSMSF
+1228_Ws,Marine Scotland,West Scotland,2018,-18.56,11.66,18.36,44.31,13.71,1,3.23,Haddock,WESTSCOT_08,LSMSF
+1229_Ws,Marine Scotland,West Scotland,2018,-18.39,12.03,17.81,44.81,14.14,1.01,3.17,Haddock,WESTSCOT_08,LSMSF
+1230_Ws,Marine Scotland,West Scotland,2018,-17.87,11.73,18.08,44.58,14.01,0.99,3.18,Haddock,WESTSCOT_05,LSMSF
+1231_Ws,Marine Scotland,West Scotland,2018,-19.09,10.68,18.38,46.31,13.92,1,3.33,Haddock,WESTSCOT_05,LSMSF
+1232_Ws,Marine Scotland,West Scotland,2018,-19.28,10.44,19.6,43.1,13.6,0.95,3.17,Haddock,WESTSCOT_05,LSMSF
+1233_Ws,Marine Scotland,West Scotland,2018,-18.79,10.84,18.29,43.65,13.64,0.95,3.2,Haddock,WESTSCOT_05,LSMSF
+1234_Ws,Marine Scotland,West Scotland,2018,-18.78,10.29,18.55,44.31,13.87,0.97,3.19,Haddock,WESTSCOT_05,LSMSF
+1235_Ws,Marine Scotland,West Scotland,2018,-18.98,11.98,19.2,44.03,13.51,0.95,3.26,Haddock,WESTSCOT_07,LSMSF
+1236_Ws,Marine Scotland,West Scotland,2018,-18.13,12.83,17.83,44.81,13.78,0.99,3.25,Haddock,WESTSCOT_07,LSMSF
+1237_Ws,Marine Scotland,West Scotland,2018,-17.87,13.14,17.4,44.23,13.84,0.95,3.2,Haddock,WESTSCOT_07,LSMSF
+1238_Ws,Marine Scotland,West Scotland,2018,-18.75,12.39,19.38,44.09,13.72,0.99,3.21,Haddock,WESTSCOT_07,LSMSF
+1239_Ws,Marine Scotland,West Scotland,2018,-18.09,12.37,16.41,44.73,13.84,0.96,3.23,Haddock,WESTSCOT_06,LSMSF
+1240_Ws,Marine Scotland,West Scotland,2018,-17.94,12.55,17.23,44.52,13.85,0.96,3.22,Haddock,WESTSCOT_06,LSMSF
+1241_Ws,Marine Scotland,West Scotland,2018,-17.91,13.01,16.49,44.71,13.91,0.95,3.22,Haddock,WESTSCOT_06,LSMSF
+1242_Ws,Marine Scotland,West Scotland,2018,-18.15,12.86,16.94,45.41,13.87,0.95,3.27,Haddock,WESTSCOT_06,LSMSF
+1243_Ws,Marine Scotland,West Scotland,2018,-17.8,13.16,17.48,43.79,13.6,0.97,3.22,Haddock,WESTSCOT_06,LSMSF
+1244_Ws,Marine Scotland,West Scotland,2018,-17.19,11.99,17.64,44.2,13.9,0.96,3.18,Haddock,WESTSCOT_01,LSMSF
+1245_Ws,Marine Scotland,West Scotland,2018,-17.48,11.55,18.48,44.1,13.89,0.97,3.17,Haddock,WESTSCOT_01,LSMSF
+1246_Ws,Marine Scotland,West Scotland,2018,-17.45,11.73,17.95,44.72,14.04,0.96,3.19,Haddock,WESTSCOT_01,LSMSF
+1247_Ws,Marine Scotland,West Scotland,2018,-17.77,11.23,18.75,44.02,13.86,0.97,3.18,Haddock,WESTSCOT_01,LSMSF
+1248_Ws,Marine Scotland,West Scotland,2018,-18.04,11.66,18,45.62,13.79,0.97,3.31,Haddock,WESTSCOT_01,LSMSF
+109_NS,Marine Scotland,North,2018,-17.87,12.34,17.15,44.44,13.66,1.07,3.25,Haddock,NORTH_20,LSMSF
+110_NS,Marine Scotland,North,2018,-17.44,12.54,17.81,43.07,13.61,0.94,3.17,Haddock,NORTH_20,LSMSF
+111_NS,Marine Scotland,North,2018,-17.1,14,17.41,43.13,13.34,1.11,3.23,Haddock,NORTH_20,LSMSF
+112_NS,Marine Scotland,North,2018,-17.65,12.81,17.59,42.71,13.29,1.03,3.21,Haddock,NORTH_20,LSMSF
+123_NS,Marine Scotland,North,2018,-18.77,12.92,16.82,46.96,13.21,1.14,3.55,Haddock,NORTH_18,LSMSF
+124_NS,Marine Scotland,North,2018,-17.85,12.69,17.38,43.95,13.49,1.13,3.26,Haddock,NORTH_18,LSMSF
+127_NS,Marine Scotland,North,2018,-17.86,12.43,17.59,44.23,13.67,1.16,3.24,Haddock,NORTH_18,LSMSF
+135_NS,Marine Scotland,North,2018,-18.17,12.33,17.47,43.97,13.42,1.05,3.28,Haddock,NORTH_35,LSMSF
+136_NS,Marine Scotland,North,2018,-17.88,12.84,17.62,43.06,13.42,1.03,3.21,Haddock,NORTH_35,LSMSF
+138_NS,Marine Scotland,North,2018,-17.34,12.62,18.15,44.65,14.18,0.96,3.15,Haddock,NORTH_35,LSMSF
+147_NS,Marine Scotland,North,2018,-18.93,12.03,18.88,43.53,13.31,1.13,3.27,Haddock,NORTH_11,LSMSF
+148_NS,Marine Scotland,North,2018,-18.37,12.19,18.36,43.33,13.55,1.09,3.2,Haddock,NORTH_11,LSMSF
+152_NS,Marine Scotland,North,2018,-18.81,12.11,19.01,44.13,13.7,1.13,3.22,Haddock,NORTH_29,LSMSF
+153_NS,Marine Scotland,North,2018,-17.83,11.89,17.64,43.23,13.47,1.09,3.21,Haddock,NORTH_29,LSMSF
+154_NS,Marine Scotland,North,2018,-18.46,11.64,18.13,45.25,13.98,1.03,3.24,Haddock,NORTH_29,LSMSF
+155_NS,Marine Scotland,North,2018,-16.78,11.79,16.52,42.73,13.55,1.01,3.15,Haddock,NORTH_29,LSMSF
+174_NS,Marine Scotland,North,2018,-18.39,12.2,17.37,43.67,13.56,1.04,3.22,Haddock,NORTH_16,LSMSF
+175_NS,Marine Scotland,North,2018,-18.31,11.53,16.48,42.58,13.31,1.06,3.2,Haddock,NORTH_16,LSMSF
+191_NS,Marine Scotland,North,2018,-17.77,13.84,16.08,44.74,13.84,0.99,3.23,Haddock,NORTH_01,LSMSF
+192_NS,Marine Scotland,North,2018,-18.32,12.68,17.09,42.89,13.4,0.99,3.2,Haddock,NORTH_01,LSMSF
+194_NS,Marine Scotland,North,2018,-17.52,13.98,17.4,43.37,13.47,1,3.22,Haddock,NORTH_01,LSMSF
+201_NS,Marine Scotland,North,2018,-18.79,13.54,16.98,44.16,13.44,1.07,3.29,Haddock,NORTH_22,LSMSF
+202_NS,Marine Scotland,North,2018,-18.16,13.01,16.38,42.79,13.45,1.06,3.18,Haddock,NORTH_22,LSMSF
+215_Ns,Marine Scotland,North,2018,-17.63,13.1,16.92,44.29,13.85,1.01,3.2,Haddock,NORTH_36,LSMSF
+217_NS,Marine Scotland,North,2018,-17.14,12.65,16.59,43.8,13.53,0.99,3.24,Haddock,NORTH_36,LSMSF
+219_NS,Marine Scotland,North,2018,-17.95,12.12,17.05,43.28,13.59,1,3.18,Haddock,NORTH_36,LSMSF
+224_NS,Marine Scotland,North,2018,-19.84,13.58,16.45,52.38,13.42,1.1,3.9,Haddock,NORTH_25,LSMSF
+225_NS,Marine Scotland,North,2018,-18.1,12.59,17.37,43.21,13.53,0.97,3.19,Haddock,NORTH_25,LSMSF
+233_Ns,Marine Scotland,North,2018,-16.84,12.85,16.51,43.98,13.87,0.95,3.17,Haddock,NORTH_32,LSMSF
+234_NS,Marine Scotland,North,2018,-17.06,12.19,16.02,43.12,13.43,1.02,3.21,Haddock,NORTH_32,LSMSF
+246_NS,Marine Scotland,North,2018,-19.35,11.03,18.09,43.21,13.51,1.05,3.2,Haddock,NORTH_14,LSMSF
+247_NS,Marine Scotland,North,2018,-18.95,11.65,18.72,44.07,13.65,0.98,3.23,Haddock,NORTH_14,LSMSF
+248_NS,Marine Scotland,North,2018,-18.69,11.95,19.04,45.52,13.9,1.04,3.28,Haddock,NORTH_14,LSMSF
+250_NS,Marine Scotland,North,2018,-18.89,11.54,18.52,43.94,13.6,1,3.23,Haddock,NORTH_14,LSMSF
+261_NS,Marine Scotland,North,2018,-17.8,13.3,17.34,41.98,13.05,1.06,3.22,Haddock,NORTH_05,LSMSF
+262_NS,Marine Scotland,North,2018,-18.37,12.24,17,42.83,13.46,1.09,3.18,Haddock,NORTH_05,LSMSF
+263_Ns,Marine Scotland,North,2018,-18.17,13.16,18.2,44.32,13.9,1,3.19,Haddock,NORTH_05,LSMSF
+264_NS,Marine Scotland,North,2018,-18.07,12.39,17.26,43.78,13.63,1.01,3.21,Haddock,NORTH_05,LSMSF
+265_NS,Marine Scotland,North,2018,-18.55,12.71,17.79,43.24,13.58,1.07,3.18,Haddock,NORTH_05,LSMSF
+271_NS,Marine Scotland,North,2018,-18,13.13,18.45,46.11,14.03,1.03,3.29,Haddock,NORTH_27,LSMSF
+273_Ns,Marine Scotland,North,2018,-17.43,13.67,18.05,43.89,13.71,1.04,3.2,Haddock,NORTH_27,LSMSF
+274_Ns,Marine Scotland,North,2018,-17.92,12.14,18.1,43.86,13.9,1.01,3.16,Haddock,NORTH_27,LSMSF
+286_NS,Marine Scotland,North,2018,-17.77,12.78,17.66,42.89,13.31,1.04,3.22,Haddock,NORTH_28,LSMSF
+288_NS,Marine Scotland,North,2018,-16.83,12.99,16.22,44.4,13.66,1.16,3.25,Haddock,NORTH_28,LSMSF
+297_NS,Marine Scotland,North,2018,-18.29,12.5,17.76,43.08,13.4,0.99,3.22,Haddock,NORTH_34,LSMSF
+298_NS,Marine Scotland,North,2018,-17.71,13.18,17.39,45.12,13.74,0.99,3.28,Haddock,NORTH_34,LSMSF
+310_NS,Marine Scotland,North,2018,-18.18,12.87,18.13,45.62,13.91,1.02,3.28,Haddock,NORTH_23,LSMSF
+311_NS,Marine Scotland,North,2018,-17.89,12.36,18.05,44.92,13.94,0.95,3.22,Haddock,NORTH_23,LSMSF
+312_NS,Marine Scotland,North,2018,-18.16,13.33,17.08,44,13.37,1.06,3.29,Haddock,NORTH_23,LSMSF
+319_NS,Marine Scotland,North,2018,-17.47,12.66,16.85,44.17,13.58,1,3.25,Haddock,NORTH_26,LSMSF
+320_NS,Marine Scotland,North,2018,-16.8,13.94,17.2,44.6,13.61,1.09,3.28,Haddock,NORTH_26,LSMSF
+321_NS,Marine Scotland,North,2018,-17.34,12.85,17.51,43.09,13.48,1.06,3.2,Haddock,NORTH_26,LSMSF
+323_NS,Marine Scotland,North,2018,-17.62,12.51,17.96,40.75,12.76,0.88,3.19,Haddock,NORTH_26,LSMSF
+329_NS,Marine Scotland,North,2018,-17.5,12.58,17.31,42.16,13.24,1.04,3.19,Haddock,NORTH_37,LSMSF
+330_NS,Marine Scotland,North,2018,-17.46,13.93,17.04,43.47,13.31,1.17,3.27,Haddock,NORTH_37,LSMSF
+331_NS,Marine Scotland,North,2018,-17.47,13.42,16.57,43.34,13.36,1.04,3.25,Haddock,NORTH_37,LSMSF
+332_NS,Marine Scotland,North,2018,-18,12.96,17.36,43.04,13.28,1.09,3.24,Haddock,NORTH_37,LSMSF
+344_NS,Marine Scotland,North,2018,-17.87,12.66,16.51,44.05,13.49,1.07,3.27,Haddock,NORTH_31,LSMSF
+347_NS,Marine Scotland,North,2018,-17.66,12.56,16.68,43.13,13.26,1.06,3.25,Haddock,NORTH_31,LSMSF
+361_NS,Marine Scotland,North,2018,-17.32,13.05,16.19,42.85,13.02,1.1,3.29,Haddock,NORTH_17,LSMSF
+371_NS,Marine Scotland,North,2018,-18.51,13.64,16.54,42.53,13.21,1.15,3.22,Haddock,NORTH_03,LSMSF
+373_NS,Marine Scotland,North,2018,-18.09,12.76,18.05,43.64,13.53,1.02,3.23,Haddock,NORTH_06,LSMSF
+376_NS,Marine Scotland,North,2018,-17.99,13.37,17.41,43.16,13.31,1.07,3.24,Haddock,NORTH_06,LSMSF
+382_NS,Marine Scotland,North,2018,-17.72,13.76,17.93,44.66,13.79,1.04,3.24,Haddock,NORTH_38,LSMSF
+383_NS,Marine Scotland,North,2018,-18.44,12.82,17.44,42.86,13.38,1.12,3.2,Haddock,NORTH_38,LSMSF
+385_NS,Marine Scotland,North,2018,-17.48,13.93,17.24,42.74,13.49,1.07,3.17,Haddock,NORTH_38,LSMSF
+386_NS,Marine Scotland,North,2018,-17.82,13.43,17.08,41.97,13.22,1.03,3.18,Haddock,NORTH_38,LSMSF
+408_NS,Marine Scotland,North,2018,-18.26,12.13,18.19,42.45,13.23,1.01,3.21,Haddock,NORTH_08,LSMSF
+411_NS,Marine Scotland,North,2018,-18.56,11.46,18.26,42.57,13.28,1.03,3.21,Haddock,NORTH_08,LSMSF
+423_NS,Marine Scotland,North,2018,-18.58,11.87,17.8,45.18,13.57,1.01,3.33,Haddock,NORTH_09,LSMSF
+424_NS,Marine Scotland,North,2018,-17.9,11.66,17.34,44.33,13.81,0.91,3.21,Haddock,NORTH_09,LSMSF
+425_NS,Marine Scotland,North,2018,-18.12,12.59,16.53,42.91,13.43,1.04,3.2,Haddock,NORTH_09,LSMSF
+426_NS,Marine Scotland,North,2018,-17.45,12.9,16.08,42.54,13.2,1.01,3.22,Haddock,NORTH_09,LSMSF
+437_NS,Marine Scotland,North,2018,-18.17,13.23,16.83,43.74,13.57,1.05,3.22,Haddock,NORTH_04,LSMSF
+442_NS,Marine Scotland,North,2018,-17.87,13.1,18.3,42.4,13.17,1,3.22,Haddock,NORTH_24,LSMSF
+444_NS,Marine Scotland,North,2018,-18.09,12.84,18.24,42.93,13.39,1.03,3.21,Haddock,NORTH_24,LSMSF
+445_NS,Marine Scotland,North,2018,-17.85,13.07,17.3,42.51,13.32,0.99,3.19,Haddock,NORTH_24,LSMSF
+454_NS,Marine Scotland,North,2018,-17.78,12.4,18,43.15,13.48,0.96,3.2,Haddock,NORTH_19,LSMSF
+457_NS,Marine Scotland,North,2018,-18.8,12.35,16.52,47.48,13.52,1.05,3.51,Haddock,NORTH_19,LSMSF
+458_NS,Marine Scotland,North,2018,-17.52,13.84,17.46,42.53,13.32,1.03,3.19,Haddock,NORTH_19,LSMSF
+459_NS,Marine Scotland,North,2018,-18.65,10.9,17.95,44.12,13.61,0.97,3.24,Haddock,NORTH_13,LSMSF
+461_NS,Marine Scotland,North,2018,-16.86,12.21,17.28,44.37,13.65,1.01,3.25,Haddock,NORTH_13,LSMSF
+462_NS,Marine Scotland,North,2018,-18.68,12.1,18.08,43.88,13.58,1,3.23,Haddock,NORTH_13,LSMSF
+474_NS,Marine Scotland,North,2018,-17.98,13.49,18.3,43.6,13.39,1.07,3.26,Haddock,NORTH_07,LSMSF
+475_NS,Marine Scotland,North,2018,-18.32,13.67,18.53,45.02,13.84,1,3.25,Haddock,NORTH_07,LSMSF
+477_NS,Marine Scotland,North,2018,-18.14,12.58,18.04,42.99,13.48,1.09,3.19,Haddock,NORTH_07,LSMSF
+479_Ns,Marine Scotland,North,2018,-17.47,13.57,17.51,43.62,13.79,1.02,3.16,Haddock,NORTH_21,LSMSF
+480_NS,Marine Scotland,North,2018,-18.85,13.46,16.34,43.55,12.98,1.13,3.36,Haddock,NORTH_21,LSMSF
+481_NS,Marine Scotland,North,2018,-17.68,13.22,16.88,42.6,13.43,1.03,3.17,Haddock,NORTH_21,LSMSF
+483_NS,Marine Scotland,North,2018,-18.02,13.63,16.3,44.97,13.79,1.05,3.26,Haddock,NORTH_21,LSMSF
+500_NS,Marine Scotland,North,2018,-18.07,11.66,18.19,45.43,14.04,1,3.24,Haddock,NORTH_15,LSMSF
+501_NS,Marine Scotland,North,2018,-17.86,12.56,17.91,45.34,13.89,1.01,3.26,Haddock,NORTH_15,LSMSF
+502_NS,Marine Scotland,North,2018,-18.61,11.67,17.86,43.6,13.49,1,3.23,Haddock,NORTH_15,LSMSF
+503_NS,Marine Scotland,North,2018,-19.07,11.56,18.78,42.41,13.1,0.99,3.24,Haddock,NORTH_15,LSMSF
+510_NS,Marine Scotland,North,2018,-18.38,11.89,18.41,45.45,13.85,1.05,3.28,Haddock,NORTH_30,LSMSF
+512_NS,Marine Scotland,North,2018,-17.99,11.7,17.47,44.88,13.72,0.98,3.27,Haddock,NORTH_30,LSMSF
+513_NS,Marine Scotland,North,2018,-17.59,12.22,17,43.76,13.64,1.03,3.21,Haddock,NORTH_30,LSMSF
+519_NS,Marine Scotland,North,2018,-18.29,12.87,16.73,44.55,13.84,1.03,3.22,Haddock,NORTH_02,LSMSF
+521_NS,Marine Scotland,North,2018,-18.39,13.26,16.4,41.74,13.13,1.14,3.18,Haddock,NORTH_02,LSMSF
+523_NS,Marine Scotland,North,2018,-18.14,13.33,16.7,43.46,13.57,1.09,3.2,Haddock,NORTH_02,LSMSF
+Y_03,Youngs Seafood,Norwegian,2017,-19.17,14.47,17.02,50.92,15.25,1.05,3.34,Haddock,Nordkapp Bank,LSMSF
+Y_05,Youngs Seafood,Norwegian,2017,-19.34,14.86,17.19,48.31,14.95,0.98,3.23,Haddock,Nordkapp Bank,LSMSF
+Y_08,Youngs Seafood,Barents,2017,-18.96,14.88,16.31,50.07,15.32,1.03,3.27,Haddock,Central Bank,LSMSF
+Y_11,Youngs Seafood,Norwegian,2017,-19.76,14.35,17.59,51.61,15.3,1.08,3.37,Haddock,Nordkapp Bank,LSMSF
+Y_13,Youngs Seafood,Barents,2016,-19.6,14.61,17.35,48.55,14.94,1,3.25,Haddock,Central Bank,LSMSF
+Y_15,Youngs Seafood,Norwegian,2017,-18.86,14.59,15.21,50.76,15.43,1.09,3.29,Haddock,Nordkapp Bank,LSMSF
+Y_20,Youngs Seafood,Norwegian,2017,-19.13,14.32,17.49,47.97,14.75,0.99,3.25,Haddock,Nordkapp Bank,LSMSF
+Y_21,Youngs Seafood,Barents,2017,-18.18,15.17,16.85,49.84,15.26,1.09,3.27,Haddock,Central Bank,LSMSF
+Y_24,Youngs Seafood,Norwegian,2017,-19.38,14.38,17.06,49.84,15.27,1.06,3.26,Haddock,Nordkapp Bank,LSMSF
+Y_28,Youngs Seafood,Norwegian,2017,-19.79,14.97,18.16,49.72,15.25,1.03,3.26,Haddock,Nordkapp Bank,LSMSF
+Y_30,Youngs Seafood,Iceland,2017,-17.98,13.06,17.7,47.95,14.77,1.05,3.25,Haddock,Iceland,LSMSF
+Y_31,Youngs Seafood,Iceland,2017,-18.27,13.19,16.49,49.04,14.84,1.02,3.3,Haddock,Iceland,LSMSF
+Y_32,Youngs Seafood,Iceland,2017,-17.74,14.09,17.12,50.32,15.39,1.13,3.27,Haddock,Iceland,LSMSF
+Y_33,Youngs Seafood,Iceland,2017,-16.93,13.61,17.02,47.05,14.49,1.03,3.25,Haddock,Iceland,LSMSF
+Y_34,Youngs Seafood,Iceland,2017,-17.19,13.37,17.74,49.42,15.16,1.01,3.26,Haddock,Iceland,LSMSF
+Y_35,Youngs Seafood,Iceland,2017,-17.18,13.4,17.61,50.23,15.39,1.05,3.26,Haddock,Iceland,LSMSF
+Y_36,Youngs Seafood,Iceland,2017,-17.91,14.23,15.96,50.06,15.1,1.12,3.31,Haddock,Iceland,LSMSF
+Y_38,Youngs Seafood,Iceland,2017,-18.36,13.37,18.22,45.33,13.9,0.89,3.26,Haddock,Iceland,LSMSF
+Y_39,Youngs Seafood,Iceland,2017,-17.81,14.46,18.52,48.74,14.86,1.09,3.28,Haddock,Iceland,LSMSF
+Y_40,Youngs Seafood,Iceland,2017,-17.56,13.83,17.27,49.66,15.27,1.04,3.25,Haddock,Iceland,LSMSF
+1288_Fa,Faroe Marine Institute,Faroes,2018,-18.08,12.67,17.84,50.6,15.46,1.15,3.27,Haddock,FAROE_01,LSMSF
+1289_Fa,Faroe Marine Institute,Faroes,2018,-17.59,12.52,17.75,50.84,15.44,1.13,3.29,Haddock,FAROE_01,LSMSF
+1290_Fa,Faroe Marine Institute,Faroes,2018,-17.21,12.52,17.58,50.89,15.53,1.14,3.28,Haddock,FAROE_01,LSMSF
+1291_Fa,Faroe Marine Institute,Faroes,2018,-17.22,12.79,17.52,50.73,15.51,1.12,3.27,Haddock,FAROE_01,LSMSF
+1292_Fa,Faroe Marine Institute,Faroes,2018,-17.49,12.51,17.87,50.62,15.34,1.12,3.3,Haddock,FAROE_01,LSMSF
+1293_Fa,Faroe Marine Institute,Faroes,2018,-17.8,11.96,18.07,50.96,15.41,1.11,3.31,Haddock,FAROE_02,LSMSF
+1294_Fa,Faroe Marine Institute,Faroes,2018,-18.16,11.9,18.04,50.52,15.27,1.11,3.31,Haddock,FAROE_02,LSMSF
+1295_Fa,Faroe Marine Institute,Faroes,2018,-17.68,11.6,18.03,51.34,15.61,1.11,3.29,Haddock,FAROE_02,LSMSF
+1296_Fa,Faroe Marine Institute,Faroes,2018,-17.99,11.59,18.23,50.86,15.48,1.13,3.28,Haddock,FAROE_02,LSMSF
+1297_Fa,Faroe Marine Institute,Faroes,2018,-17.71,12,17.69,50.99,15.38,1.08,3.32,Haddock,FAROE_02,LSMSF
+1298_Fa,Faroe Marine Institute,Faroes,2018,-17.42,12.99,17.58,50.32,15.48,1.1,3.25,Haddock,FAROE_03,LSMSF
+1299_Fa,Faroe Marine Institute,Faroes,2018,-17.66,12.33,17.85,50.76,15.62,1.12,3.25,Haddock,FAROE_03,LSMSF
+1300_Fa,Faroe Marine Institute,Faroes,2018,-17.69,12.34,17.78,49.81,15.29,1.08,3.26,Haddock,FAROE_03,LSMSF
+1301_Fa,Faroe Marine Institute,Faroes,2018,-17.71,12.13,17.97,49.77,15.45,1.13,3.22,Haddock,FAROE_03,LSMSF
+1302_Fa,Faroe Marine Institute,Faroes,2018,-18.05,12.34,18.05,49.95,15.19,1.08,3.29,Haddock,FAROE_03,LSMSF

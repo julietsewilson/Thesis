@@ -1,0 +1,347 @@
+FishID,Source,Location,Year_samples_collected,d13C,d15N,d34S,%C,%N,%S,CN,Species,Station,SIA_location
+116_Ns,Marine Scotland,North,2018,-19.12,13.97,18.31,43.64,13.56,1.04,3.22,Hake,NORTH_20,NOCS
+171_Ns,Marine Scotland,North,2018,-19.17,12.82,18.79,44.05,13.68,0.92,3.22,Hake,NORTH_12,NOCS
+831_Cel,Ifremer,Celtic,2018,-18.51,13.53,18.91,46.96,13.74,0.95,3.42,Hake,CELTIC_04,LSMSF
+832_Cel,Ifremer,Celtic,2018,-19.56,12.09,19.48,42.55,13.22,1.02,3.22,Hake,CELTIC_08,LSMSF
+833_Cel,Ifremer,Celtic,2018,-19.4,13.58,18.59,44.99,13.16,1.02,3.42,Hake,CELTIC_08,LSMSF
+834_Cel,Ifremer,Celtic,2018,-19.02,12.19,18.8,44.48,13.61,1,3.27,Hake,CELTIC_08,LSMSF
+835_Cel,Ifremer,Celtic,2018,-18.92,12.75,19.42,45.09,13.98,1.07,3.23,Hake,CELTIC_08,LSMSF
+836_Cel,Ifremer,Celtic,2018,-19.03,12.67,19.45,44.21,13.71,1.06,3.22,Hake,CELTIC_08,LSMSF
+837_Cel,Ifremer,Celtic,2018,-19.05,12.84,18.06,45.78,13.14,0.95,3.48,Hake,CELTIC_11,LSMSF
+838_Cel,Ifremer,Celtic,2018,-19.37,12.6,18.62,54.63,15.23,1.09,3.59,Hake,CELTIC_11,LSMSF
+839_Cel,Ifremer,Celtic,2018,-18.66,12.65,18.84,44.75,13.88,1,3.22,Hake,CELTIC_11,LSMSF
+840_Cel,Ifremer,Celtic,2018,-18.3,12.49,18.37,45.31,13.91,1,3.26,Hake,CELTIC_11,LSMSF
+841_Cel,Ifremer,Celtic,2018,-18.37,12.84,18.96,45.47,13.82,1.02,3.29,Hake,CELTIC_11,LSMSF
+842_Cel,Ifremer,Celtic,2018,-19.32,11.86,18.84,43.92,13.7,1,3.21,Hake,CELTIC_14,LSMSF
+843_Cel,Ifremer,Celtic,2018,-20.48,11.58,17.22,45.24,13.6,1.03,3.33,Hake,CELTIC_14,LSMSF
+844_Cel,Ifremer,Celtic,2018,-19.83,11.4,18.34,47.02,12.92,0.96,3.64,Hake,CELTIC_14,LSMSF
+845_Cel,Ifremer,Celtic,2018,-19.59,12.04,18.64,45.74,13.27,1,3.45,Hake,CELTIC_14,LSMSF
+846_Cel,Ifremer,Celtic,2018,-19.09,12.01,18.73,44.13,13.34,0.99,3.31,Hake,CELTIC_14,LSMSF
+847_Cel,Ifremer,Celtic,2018,-19.58,13.05,18.58,46.16,13.44,1.07,3.44,Hake,CELTIC_02,LSMSF
+848_Cel,Ifremer,Celtic,2018,-19.45,12.48,18.14,45.16,13.89,1,3.25,Hake,CELTIC_02,LSMSF
+849_Cel,Ifremer,Celtic,2018,-18.93,13.6,18.69,46.44,13.89,1.09,3.34,Hake,CELTIC_03,LSMSF
+850_Cel,Ifremer,Celtic,2018,-20.47,11.07,19.34,46.92,13.73,1.07,3.42,Hake,CELTIC_03,LSMSF
+851_Cel,Ifremer,Celtic,2018,-19.8,12.54,17.93,46.38,12.85,0.94,3.61,Hake,CELTIC_13,LSMSF
+852_Cel,Ifremer,Celtic,2018,-19.45,12.41,19.01,47.73,14.4,1.11,3.32,Hake,CELTIC_13,LSMSF
+853_Cel,Ifremer,Celtic,2018,-19.17,12.21,18.81,44.91,13.71,1.07,3.28,Hake,CELTIC_13,LSMSF
+854_Cel,Ifremer,Celtic,2018,-18.57,14.35,18.38,45.07,13.58,0.99,3.32,Hake,CELTIC_13,LSMSF
+855_Cel,Ifremer,Celtic,2018,-19.81,12.06,18.16,46.08,13.28,1.02,3.47,Hake,CELTIC_13,LSMSF
+856_Cel,Ifremer,Celtic,2018,-19.23,12.44,18.84,46.86,14.01,1.06,3.35,Hake,CELTIC_12,LSMSF
+857_Cel,Ifremer,Celtic,2018,-19.64,11.44,18.84,45.8,13.85,1.04,3.31,Hake,CELTIC_12,LSMSF
+858_Cel,Ifremer,Celtic,2018,-19.32,12.27,18.81,42.24,12.45,0.87,3.39,Hake,CELTIC_12,LSMSF
+859_Cel,Ifremer,Celtic,2018,-18.46,13.9,17.98,44.9,13.48,0.94,3.33,Hake,CELTIC_12,LSMSF
+860_Cel,Ifremer,Celtic,2018,-20.46,11.93,18.68,48.75,12.46,0.93,3.91,Hake,CELTIC_12,LSMSF
+861_Cel,Ifremer,Celtic,2018,-19.05,13.57,18.91,44.61,13.2,1.07,3.38,Hake,CELTIC_05,LSMSF
+862_Cel,Ifremer,Celtic,2018,-20,13.03,17.67,46.2,13.03,0.97,3.55,Hake,CELTIC_10,LSMSF
+863_Cel,Ifremer,Celtic,2018,-19.11,13.38,18.37,46.52,13.48,0.94,3.45,Hake,CELTIC_10,LSMSF
+864_Cel,Ifremer,Celtic,2018,-18.86,13.74,17.65,44.66,13.22,0.91,3.38,Hake,CELTIC_10,LSMSF
+865_Cel,Ifremer,Celtic,2018,-20.2,13.36,18.46,49.02,12.7,0.91,3.86,Hake,CELTIC_10,LSMSF
+866_Cel,Ifremer,Celtic,2018,-19.96,13.36,17.44,49.02,12.95,0.85,3.79,Hake,CELTIC_10,LSMSF
+867_Cel,Ifremer,Celtic,2018,-20,11.35,19.12,46.59,13.28,1.02,3.51,Hake,CELTIC_09,LSMSF
+868_Cel,Ifremer,Celtic,2018,-19.44,11.94,18.58,44.68,13.42,1.05,3.33,Hake,CELTIC_09,LSMSF
+869_Cel,Ifremer,Celtic,2018,-19.72,12.41,16.94,44.98,13.86,1.14,3.25,Hake,CELTIC_09,LSMSF
+870_Cel,Ifremer,Celtic,2018,-22.23,12.57,17.12,51.73,11.22,0.86,4.61,Hake,CELTIC_09,LSMSF
+871_Cel,Ifremer,Celtic,2018,-19.39,12.24,18.88,43.62,13.36,1,3.26,Hake,CELTIC_09,LSMSF
+872_Cel,Ifremer,Celtic,2018,-20.1,12.16,18.37,48.4,12.46,0.92,3.88,Hake,CELTIC_15,LSMSF
+873_Cel,Ifremer,Celtic,2018,-19.53,12.31,18.25,45.63,13.17,0.96,3.47,Hake,CELTIC_15,LSMSF
+874_Cel,Ifremer,Celtic,2018,-18.7,12.15,18.74,46.02,13.92,1.02,3.31,Hake,CELTIC_15,LSMSF
+875_Cel,Ifremer,Celtic,2018,-20.27,12.75,17.48,55.58,14.21,1.18,3.91,Hake,CELTIC_15,LSMSF
+877_Cel,Ifremer,Celtic,2018,-20.15,13.68,16.7,55.34,14.21,1.23,3.89,Hake,CELTIC_07,LSMSF
+878_Cel,Ifremer,Celtic,2018,-20.21,11.07,19.07,44.24,12.88,1,3.44,Hake,CELTIC_07,LSMSF
+879_Cel,Ifremer,Celtic,2018,-19.7,11.77,17.36,45.13,13.62,1,3.31,Hake,CELTIC_07,LSMSF
+880_Cel,Ifremer,Celtic,2018,-18.59,13.55,18.09,44.87,13.33,0.93,3.37,Hake,CELTIC_07,LSMSF
+881_Cel,Ifremer,Celtic,2018,-18.86,11.09,18.74,44.62,13.75,0.97,3.25,Hake,CELTIC_07,LSMSF
+746_Bis,Ifremer,Bay of Biscay,2018,-18.77,12.64,16.89,41.15,13.11,1.11,3.14,Hake,BISCAY_09,LSMSF
+747_Bis,Ifremer,Bay of Biscay,2018,-18.81,12.92,17.83,42.45,13.46,1.06,3.15,Hake,BISCAY_09,LSMSF
+748_Bis,Ifremer,Bay of Biscay,2018,-18.7,13,17.36,42.45,13.48,1.12,3.15,Hake,BISCAY_09,LSMSF
+749_Bis,Ifremer,Bay of Biscay,2018,-18.66,12.98,16.81,40.83,12.98,1.08,3.15,Hake,BISCAY_09,LSMSF
+750_Bis,Ifremer,Bay of Biscay,2018,-18.76,12.83,18.1,43.06,13.67,1.08,3.15,Hake,BISCAY_09,LSMSF
+751_Bis,Ifremer,Bay of Biscay,2018,-18.87,13.01,18.08,43.24,13.77,1.1,3.14,Hake,BISCAY_06,LSMSF
+752_Bis,Ifremer,Bay of Biscay,2018,-18.9,13.2,18.06,40.38,12.96,1.03,3.12,Hake,BISCAY_06,LSMSF
+753_Bis,Ifremer,Bay of Biscay,2018,-19.01,13.23,18.06,40.89,13,1.12,3.15,Hake,BISCAY_06,LSMSF
+754_Bis,Ifremer,Bay of Biscay,2018,-18.88,13.37,18.61,43.96,13.93,1.17,3.15,Hake,BISCAY_06,LSMSF
+755_Bis,Ifremer,Bay of Biscay,2018,-18.96,13.26,15.92,41.91,13.27,1.07,3.16,Hake,BISCAY_06,LSMSF
+756_Bis,Ifremer,Bay of Biscay,2018,-18.27,13.86,15.24,42.07,13.26,1.05,3.17,Hake,BISCAY_10,LSMSF
+757_Bis,Ifremer,Bay of Biscay,2018,-18.3,13.95,17.35,43.34,13.74,1.12,3.15,Hake,BISCAY_10,LSMSF
+758_Bis,Ifremer,Bay of Biscay,2018,-18.76,13.3,17.63,42.06,13.21,1.07,3.18,Hake,BISCAY_10,LSMSF
+759_Bis,Ifremer,Bay of Biscay,2018,-19.14,13.79,17.74,42.61,12.89,1.04,3.31,Hake,BISCAY_10,LSMSF
+760_Bis,Ifremer,Bay of Biscay,2018,-18.64,13.46,17.92,43.62,13.71,1.1,3.18,Hake,BISCAY_10,LSMSF
+761_Bis,Ifremer,Bay of Biscay,2018,-18.42,13.31,18.24,43.41,13.81,1.18,3.14,Hake,BISCAY_08,LSMSF
+762_Bis,Ifremer,Bay of Biscay,2018,-18.29,15.19,17.15,44.05,13.79,1.09,3.19,Hake,BISCAY_08,LSMSF
+763_Bis,Ifremer,Bay of Biscay,2018,-18.5,14.03,17.96,41.59,13.17,1.06,3.16,Hake,BISCAY_08,LSMSF
+764_Bis,Ifremer,Bay of Biscay,2018,-19.36,13.39,17.65,43.85,13.16,1.09,3.33,Hake,BISCAY_08,LSMSF
+765_Bis,Ifremer,Bay of Biscay,2018,-18.88,13.44,17.89,42.96,13.48,1.16,3.19,Hake,BISCAY_08,LSMSF
+766_Bis,Ifremer,Bay of Biscay,2018,-18.43,13.76,16.63,42.09,13.05,1.11,3.23,Hake,BISCAY_04,LSMSF
+767_Bis,Ifremer,Bay of Biscay,2018,-18.64,14,17.67,41.57,12.98,1.08,3.2,Hake,BISCAY_04,LSMSF
+768_Bis,Ifremer,Bay of Biscay,2018,-18.2,14.64,17.01,41.22,13.21,1.15,3.12,Hake,BISCAY_04,LSMSF
+769_Bis,Ifremer,Bay of Biscay,2018,-18.45,13.49,17.57,42.3,13.07,1.06,3.24,Hake,BISCAY_04,LSMSF
+770_Bis,Ifremer,Bay of Biscay,2018,-18.57,13.6,17.6,40.89,12.94,1.05,3.16,Hake,BISCAY_04,LSMSF
+771_Bis,Ifremer,Bay of Biscay,2018,-18.89,13.69,17.4,42.96,13.69,1.15,3.14,Hake,BISCAY_02,LSMSF
+772_Bis,Ifremer,Bay of Biscay,2018,-18.59,13.17,18.06,41.48,13.18,1.07,3.15,Hake,BISCAY_02,LSMSF
+773_Bis,Ifremer,Bay of Biscay,2018,-19.78,13.22,17.66,43.12,12.56,1.09,3.43,Hake,BISCAY_02,LSMSF
+774_Bis,Ifremer,Bay of Biscay,2018,-18.96,12.44,17.65,40.9,12.96,1.09,3.16,Hake,BISCAY_02,LSMSF
+775_Bis,Ifremer,Bay of Biscay,2018,-18.96,13.1,18.17,41.39,13.07,1.05,3.17,Hake,BISCAY_02,LSMSF
+776_Bis,Ifremer,Bay of Biscay,2018,-18.99,13.56,17.12,40.78,12.82,1.03,3.18,Hake,BISCAY_03,LSMSF
+777_Bis,Ifremer,Bay of Biscay,2018,-19.86,13.12,18.02,43.01,12.47,1.08,3.45,Hake,BISCAY_03,LSMSF
+778_Bis,Ifremer,Bay of Biscay,2018,-18.75,13.19,17.65,40.19,12.83,1.06,3.13,Hake,BISCAY_03,LSMSF
+779_Bis,Ifremer,Bay of Biscay,2018,-18.88,12.8,17.74,40.63,12.85,1.13,3.16,Hake,BISCAY_03,LSMSF
+780_Bis,Ifremer,Bay of Biscay,2018,-19.13,13.25,17.28,41.71,12.84,1.1,3.25,Hake,BISCAY_03,LSMSF
+781_Bis,Ifremer,Bay of Biscay,2018,-18.8,13.36,17.86,41.1,13,1.14,3.16,Hake,BISCAY_01,LSMSF
+782_Bis,Ifremer,Bay of Biscay,2018,-18.77,13.53,18.19,41.34,13.22,1.02,3.13,Hake,BISCAY_01,LSMSF
+783_Bis,Ifremer,Bay of Biscay,2018,-18.98,12.76,17.85,43.16,13.8,1.14,3.13,Hake,BISCAY_01,LSMSF
+784_Bis,Ifremer,Bay of Biscay,2018,-18.48,13.78,17.46,41.23,13.07,1.03,3.15,Hake,BISCAY_01,LSMSF
+785_Bis,Ifremer,Bay of Biscay,2018,-18.91,13.24,18.59,41.44,13.13,1.05,3.16,Hake,BISCAY_01,LSMSF
+786_Bis,Ifremer,Bay of Biscay,2018,-18.92,13.32,15.67,42.39,13.2,1.08,3.21,Hake,BISCAY_07,LSMSF
+787_Bis,Ifremer,Bay of Biscay,2018,-18.97,13.1,17.04,41.56,13.04,1.1,3.19,Hake,BISCAY_07,LSMSF
+788_Bis,Ifremer,Bay of Biscay,2018,-18.95,13.14,18.03,41.16,13.01,1.13,3.16,Hake,BISCAY_07,LSMSF
+789_Bis,Ifremer,Bay of Biscay,2018,-18.48,13.29,17.91,41.53,13.09,1.1,3.17,Hake,BISCAY_07,LSMSF
+790_Bis,Ifremer,Bay of Biscay,2018,-18.64,13.61,18.05,41.29,12.95,1.08,3.19,Hake,BISCAY_07,LSMSF
+791_Bis,Ifremer,Bay of Biscay,2018,-19.03,13.46,18.03,41.55,12.87,1.12,3.23,Hake,BISCAY_05,LSMSF
+792_Bis,Ifremer,Bay of Biscay,2018,-18.61,13.97,17.8,43.24,13.58,1.1,3.18,Hake,BISCAY_05,LSMSF
+793_Bis,Ifremer,Bay of Biscay,2018,-18.8,12.92,15.56,41.87,13.33,1.08,3.14,Hake,BISCAY_05,LSMSF
+794_Bis,Ifremer,Bay of Biscay,2018,-18.78,13.25,18.08,41.28,13.12,1.16,3.15,Hake,BISCAY_05,LSMSF
+795_Bis,Ifremer,Bay of Biscay,2018,-18.8,13.28,17.1,42.12,13.15,1.08,3.2,Hake,BISCAY_05,LSMSF
+796_Bis,Ifremer,Bay of Biscay,2018,-18.73,14.05,18,40.27,12.7,1.12,3.17,Hake,BISCAY_13,LSMSF
+797_Bis,Ifremer,Bay of Biscay,2018,-18.81,13.44,17.39,41.91,12.95,1.24,3.24,Hake,BISCAY_13,LSMSF
+798_Bis,Ifremer,Bay of Biscay,2018,-19.06,13.31,18.04,41.33,12.83,1.25,3.22,Hake,BISCAY_13,LSMSF
+799_Bis,Ifremer,Bay of Biscay,2018,-18.81,13.56,18.1,41.53,13,1.19,3.19,Hake,BISCAY_13,LSMSF
+800_Bis,Ifremer,Bay of Biscay,2018,-19.01,13.74,17.98,41.66,13.04,1.23,3.2,Hake,BISCAY_13,LSMSF
+801_Bis,Ifremer,Bay of Biscay,2018,-18.69,13.73,18.04,41.75,13.13,1.13,3.18,Hake,BISCAY_15,LSMSF
+802_Bis,Ifremer,Bay of Biscay,2018,-19.75,13.11,17.7,43.81,12.89,1.17,3.4,Hake,BISCAY_15,LSMSF
+803_Bis,Ifremer,Bay of Biscay,2018,-18.81,14.11,16.09,41.76,13.17,1.22,3.17,Hake,BISCAY_15,LSMSF
+804_Bis,Ifremer,Bay of Biscay,2018,-18.89,13.16,17.76,41.56,13.13,1.14,3.17,Hake,BISCAY_15,LSMSF
+805_Bis,Ifremer,Bay of Biscay,2018,-19.21,13.11,17.98,42.14,12.99,1.13,3.24,Hake,BISCAY_15,LSMSF
+806_Bis,Ifremer,Bay of Biscay,2018,-18.45,15.1,17.06,42.95,12.92,1.06,3.33,Hake,BISCAY_11,LSMSF
+807_Bis,Ifremer,Bay of Biscay,2018,-18.13,14.6,17.26,41.67,13.01,1,3.2,Hake,BISCAY_11,LSMSF
+808_Bis,Ifremer,Bay of Biscay,2018,-18.64,13.34,17.35,41.47,12.9,1.05,3.21,Hake,BISCAY_11,LSMSF
+809_Bis,Ifremer,Bay of Biscay,2018,-18.8,13.08,17.12,41.2,12.74,1.09,3.23,Hake,BISCAY_11,LSMSF
+810_Bis,Ifremer,Bay of Biscay,2018,-18.86,12.89,17.64,42.77,13.41,1.12,3.19,Hake,BISCAY_11,LSMSF
+811_Bis,Ifremer,Bay of Biscay,2018,-19.41,12.75,15.31,40.66,12.78,1.12,3.18,Hake,BISCAY_14,LSMSF
+812_Bis,Ifremer,Bay of Biscay,2018,-20.92,13.74,17.69,45.22,11.82,1.05,3.82,Hake,BISCAY_14,LSMSF
+813_Bis,Ifremer,Bay of Biscay,2018,-19.71,12.13,18.23,41.01,12.86,1.15,3.19,Hake,BISCAY_14,LSMSF
+814_Bis,Ifremer,Bay of Biscay,2018,-19.84,12.37,17.33,42.46,12.94,1.15,3.28,Hake,BISCAY_14,LSMSF
+815_Bis,Ifremer,Bay of Biscay,2018,-19.78,12.42,18.03,42.63,13.23,1.11,3.22,Hake,BISCAY_14,LSMSF
+816_Bis,Ifremer,Bay of Biscay,2018,-18.82,13.45,17,41.75,13.04,1.12,3.2,Hake,BISCAY_12,LSMSF
+817_Bis,Ifremer,Bay of Biscay,2018,-18.34,14.47,17.44,41.64,13.13,1.11,3.17,Hake,BISCAY_12,LSMSF
+818_Bis,Ifremer,Bay of Biscay,2018,-18.46,14.27,17.61,40.61,12.75,1.04,3.18,Hake,BISCAY_12,LSMSF
+819_Bis,Ifremer,Bay of Biscay,2018,-18.32,14.29,16.8,43.23,13.35,0.85,3.24,Hake,BISCAY_12,LSMSF
+820_Bis,Ifremer,Bay of Biscay,2018,-18.87,14.08,17.97,43.94,13.49,1.15,3.26,Hake,BISCAY_12,LSMSF
+821_Bis,Ifremer,Bay of Biscay,2018,-19.28,12.67,18.33,40.72,12.74,1.15,3.2,Hake,BISCAY_17,LSMSF
+822_Bis,Ifremer,Bay of Biscay,2018,-18.43,13.79,18.08,43.24,13.37,1.2,3.23,Hake,BISCAY_17,LSMSF
+823_Bis,Ifremer,Bay of Biscay,2018,-18.72,13.71,18.11,42.48,13.4,1.27,3.17,Hake,BISCAY_17,LSMSF
+824_Bis,Ifremer,Bay of Biscay,2018,-18.73,13.5,18.19,41.91,13.15,1.15,3.19,Hake,BISCAY_17,LSMSF
+825_Bis,Ifremer,Bay of Biscay,2018,-19.1,12.88,15.57,41.86,13.01,1.16,3.22,Hake,BISCAY_16,LSMSF
+826_Bis,Ifremer,Bay of Biscay,2018,-18.65,14.02,18.06,41.8,13.18,1.18,3.17,Hake,BISCAY_16,LSMSF
+827_Bis,Ifremer,Bay of Biscay,2018,-19.19,13.8,18.01,41.82,12.85,1.2,3.25,Hake,BISCAY_16,LSMSF
+828_Bis,Ifremer,Bay of Biscay,2018,-18.86,13.98,18.2,41.48,13.02,1.22,3.18,Hake,BISCAY_16,LSMSF
+829_Bis,Ifremer,Bay of Biscay,2018,-18.75,13.83,17.95,41.48,12.98,1.22,3.19,Hake,BISCAY_16,LSMSF
+830_Bis,Ifremer,Bay of Biscay,2018,-18.97,13.12,17.88,42.09,13.2,1.1,3.19,Hake,BISCAY_18,LSMSF
+114_Ns,Marine Scotland,North,2018,-19.08,13.54,17.7,41.38,12.96,1.14,3.19,Hake,NORTH_20,LSMSF
+115_Ns,Marine Scotland,North,2018,-19.15,14.19,16.9,41.22,12.9,1.2,3.19,Hake,NORTH_20,LSMSF
+130_Ns,Marine Scotland,North,2018,-19.28,13.33,17.89,41.29,12.93,1.15,3.19,Hake,NORTH_18,LSMSF
+178_Ns,Marine Scotland,North,2018,-20.3,13.82,17.96,41.87,12.95,1.13,3.23,Hake,NORTH_16,LSMSF
+186_Ns,Marine Scotland,North,2018,-19.35,14.42,16.78,41.35,12.82,1.06,3.23,Hake,NORTH_01,LSMSF
+188_Ns,Marine Scotland,North,2018,-19.43,14.13,16.76,41.52,12.94,1.08,3.21,Hake,NORTH_01,LSMSF
+364_Ns,Marine Scotland,North,2018,-19.41,14.1,15.22,42.66,12.44,1.02,3.43,Hake,NORTH_17,LSMSF
+466_Ns,Marine Scotland,North,2018,-19.19,13.01,16.78,40.65,12.92,1.02,3.15,Hake,NORTH_13,LSMSF
+498_Ns,Marine Scotland,North,2018,-19.6,12.95,18.15,41.41,12.89,1.09,3.21,Hake,NORTH_15,LSMSF
+518_Ns,Marine Scotland,North,2018,-20.54,12.36,17.72,41.63,12.59,1.09,3.31,Hake,NORTH_30,LSMSF
+131_Ns,Marine Scotland,North,2018,-19.75,13.19,16.87,45.45,13.72,1.16,3.31,Hake,NORTH_18,LSMSF
+228_Ns,Marine Scotland,North,2018,-19.03,14.02,18.79,46.69,13.36,0.98,3.5,Hake,NORTH_25,LSMSF
+232_Ns,Marine Scotland,North,2018,-19.12,14.28,18.99,45.38,13.2,0.99,3.44,Hake,NORTH_25,LSMSF
+244_Ns,Marine Scotland,North,2018,-18.57,12.96,18.58,45.19,13.93,1.09,3.24,Hake,NORTH_32,LSMSF
+275_Ns,Marine Scotland,North,2018,-19.22,13.7,19.14,44.04,13.73,1.08,3.21,Hake,NORTH_27,LSMSF
+276_Ns,Marine Scotland,North,2018,-18.75,13.96,18.29,44.42,13.65,1.01,3.25,Hake,NORTH_27,LSMSF
+278_Ns,Marine Scotland,North,2018,-18.76,12.92,18.73,45.7,14.02,1.05,3.26,Hake,NORTH_27,LSMSF
+301_Ns,Marine Scotland,North,2018,-18.9,13.04,18.43,45.63,14.04,1.02,3.25,Hake,NORTH_34,LSMSF
+389_Ns,Marine Scotland,North,2018,-19.04,13.79,18.28,45.05,13.8,1.03,3.26,Hake,NORTH_38,LSMSF
+390_Ns,Marine Scotland,North,2018,-17.95,15.46,18.4,45.68,13.69,0.98,3.34,Hake,NORTH_38,LSMSF
+397_Ns,Marine Scotland,North,2018,-19.01,13.75,18.65,44.44,13.81,0.98,3.22,Hake,NORTH_08,LSMSF
+417_Ns,Marine Scotland,North,2018,-18.88,12.86,18.21,45.28,14,1.05,3.23,Hake,NORTH_33,LSMSF
+448_Ns,Marine Scotland,North,2018,-19.63,13.87,18.49,48.87,14.07,1.03,3.47,Hake,NORTH_19,LSMSF
+451_Ns,Marine Scotland,North,2018,-19.35,13.89,18.63,45.74,14.14,1.06,3.23,Hake,NORTH_19,LSMSF
+465_Ns,Marine Scotland,North,2018,-19.35,13.84,17.18,47.39,12.92,0.96,3.67,Hake,NORTH_13,LSMSF
+467_Ns,Marine Scotland,North,2018,-18.88,13.47,18.03,47.28,14.31,0.99,3.3,Hake,NORTH_13,LSMSF
+488_Ns,Marine Scotland,North,2018,-19.12,14.06,17.51,45.87,14.08,1.06,3.26,Hake,NORTH_21,LSMSF
+497_Ns,Marine Scotland,North,2018,-19.2,13.46,18.83,45.52,13.72,1.02,3.32,Hake,NORTH_15,LSMSF
+514_Ns,Marine Scotland,North,2018,-19.18,13.54,18.78,46,14,1.07,3.29,Hake,NORTH_30,LSMSF
+516_Ns,Marine Scotland,North,2018,-19.38,14.03,18.82,46.95,13.82,1.02,3.4,Hake,NORTH_30,LSMSF
+517_Ns,Marine Scotland,North,2018,-19.64,14.44,19.19,46.23,14.02,1.06,3.3,Hake,NORTH_30,LSMSF
+1001_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.68,8.55,19.89,46.03,14.24,1.02,3.23,Hake,Palma,LSMSF
+1004_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.41,9.03,19.55,43.71,13.47,0.98,3.24,Hake,Palma,LSMSF
+1010_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.59,8.58,19.64,44.28,13.43,0.98,3.3,Hake,Palma,LSMSF
+1013_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.15,9.56,19.52,43.17,13.48,0.94,3.2,Hake,Palma,LSMSF
+1015_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.77,8.36,20.08,43.65,13.6,0.98,3.21,Hake,Palma,LSMSF
+1019_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.63,9.73,19.8,46.32,13.6,1.01,3.41,Hake,Palma,LSMSF
+1025_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.73,8.44,20.12,44.06,13.68,0.97,3.22,Hake,Palma,LSMSF
+1026_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.44,9.2,19.96,44.81,13.79,1.01,3.25,Hake,Palma,LSMSF
+1029_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.26,9.3,20.07,43.84,13.57,0.93,3.23,Hake,Palma,LSMSF
+1030_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.71,8.27,19.82,44.11,13.4,0.94,3.29,Hake,Palma,LSMSF
+1032_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.58,8.64,20.12,44.34,13.7,0.98,3.24,Hake,Palma,LSMSF
+1033_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.73,8.39,19.93,45.58,14.16,1.02,3.22,Hake,Palma,LSMSF
+1034_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.84,8.2,19.31,43.54,13.58,1,3.21,Hake,Palma,LSMSF
+1035_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.38,9.13,19.6,43.31,13.49,0.99,3.21,Hake,Palma,LSMSF
+1040_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-18.95,9.49,20,43.38,13.44,0.97,3.23,Hake,Palma,LSMSF
+1041_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.38,9.28,20.13,43.22,13.45,0.99,3.21,Hake,Palma,LSMSF
+1042_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.48,8.88,19.9,45.4,13.94,1.02,3.26,Hake,Palma,LSMSF
+882_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.08,9.88,19.96,43.71,13.58,0.99,3.22,Hake,Santanyi,LSMSF
+883_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.22,9.74,20.09,44.56,13.74,0.92,3.24,Hake,Santanyi,LSMSF
+886_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-18.93,9.86,20.03,42.95,13.55,0.93,3.17,Hake,Santanyi,LSMSF
+887_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.82,7.4,19.69,43.47,13.34,0.95,3.26,Hake,Santanyi,LSMSF
+888_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.3,8.97,19.61,43.21,13.5,0.93,3.2,Hake,Santanyi,LSMSF
+890_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.95,8.15,20.13,43.74,13.46,0.98,3.25,Hake,Santanyi,LSMSF
+899_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.34,9.73,20.07,43.64,13.65,0.95,3.2,Hake,Santanyi,LSMSF
+904_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.75,8.5,19.84,44,13.49,0.98,3.26,Hake,Santanyi,LSMSF
+905_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.76,8.36,20.1,43.09,13.36,0.98,3.23,Hake,Santanyi,LSMSF
+909_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.23,9.92,19.37,43.95,13.7,0.96,3.21,Hake,Santanyi,LSMSF
+911_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.83,7.86,19.63,44.34,13.6,0.97,3.26,Hake,Santanyi,LSMSF
+913_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.53,8.59,19.87,43.34,13.4,0.9,3.23,Hake,Santanyi,LSMSF
+916_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.29,9.07,19.79,44.21,13.77,0.96,3.21,Hake,Santanyi,LSMSF
+918_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.8,8.66,19.96,44.47,13.41,0.96,3.32,Hake,Santanyi,LSMSF
+926_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.87,7.79,19.7,43.27,13.39,0.97,3.23,Hake,Santanyi,LSMSF
+927_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.74,8.3,19.97,43.42,13.38,0.94,3.25,Hake,Santanyi,LSMSF
+929_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.8,7.68,19.95,43.75,13.65,0.93,3.2,Hake,Santanyi,LSMSF
+932_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.77,8.39,19.88,43.82,13.4,1.01,3.27,Hake,Santanyi,LSMSF
+934_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.35,9.03,20.13,43.53,13.45,0.94,3.24,Hake,Santanyi,LSMSF
+937_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.89,8.06,19.47,43.83,13.49,0.97,3.25,Hake,Santanyi,LSMSF
+938_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.86,7.89,19.71,43.8,13.51,0.98,3.24,Hake,Santanyi,LSMSF
+947_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.08,10.04,20.19,44.12,13.81,0.95,3.19,Hake,Santanyi,LSMSF
+948_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.34,9.48,19.26,43.83,13.53,0.93,3.24,Hake,Santanyi,LSMSF
+957_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-20.09,8.01,19.39,45.92,13.57,0.96,3.38,Hake,Santanyi,LSMSF
+958_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.89,8.13,20.09,45.1,13.85,1.01,3.26,Hake,Santanyi,LSMSF
+972_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.06,9.83,20.08,44.05,13.8,0.93,3.19,Hake,Palma,LSMSF
+974_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.35,9.3,20.1,43.89,13.59,0.95,3.23,Hake,Palma,LSMSF
+976_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.27,9.39,20.24,43.56,13.4,0.95,3.25,Hake,Palma,LSMSF
+987_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.37,9.13,20.05,44.62,13.78,1.02,3.24,Hake,Palma,LSMSF
+988_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.79,8.5,19.98,43.94,13.64,0.99,3.22,Hake,Palma,LSMSF
+990_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.18,9.67,18.92,43.39,13.62,0.97,3.19,Hake,Palma,LSMSF
+995_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.12,9.9,20.29,43.46,13.61,0.97,3.19,Hake,Palma,LSMSF
+997_Med,"Fish market, Majorca (IMEDEA)",Mediterranean,2018,-19.82,8.26,19.58,45.11,13.86,0.98,3.25,Hake,Palma,LSMSF
+876_Cel,Ifremer,Celtic,2018,-18.88,12.77,19.2,44.29,13.58,1.01,3.26,Hake,CELTIC_15,LSMSF
+1249_Ws,Marine Scotland,West Scotland,2018,-18.91,13.5,18.3,44.77,13.18,0.91,3.4,Hake,WESTSCOT_09,LSMSF
+1250_Ws,Marine Scotland,West Scotland,2018,-19.49,13.71,18.15,45.04,13.28,0.94,3.39,Hake,WESTSCOT_09,LSMSF
+1251_Ws,Marine Scotland,West Scotland,2018,-19.72,13.6,18.34,45.35,13.34,0.94,3.4,Hake,WESTSCOT_09,LSMSF
+1252_Ws,Marine Scotland,West Scotland,2018,-19.54,13.06,18.87,44.61,13.26,0.9,3.36,Hake,WESTSCOT_09,LSMSF
+1253_Ws,Marine Scotland,West Scotland,2018,-19.66,12.9,17.86,44.49,13.59,0.94,3.27,Hake,WESTSCOT_09,LSMSF
+1254_Ws,Marine Scotland,West Scotland,2018,-17.86,14.42,16.93,44.52,13.9,0.94,3.2,Hake,WESTSCOT_11,LSMSF
+1255_Ws,Marine Scotland,West Scotland,2018,-18.85,13.82,18.26,43.89,13.44,0.93,3.27,Hake,WESTSCOT_11,LSMSF
+1256_Ws,Marine Scotland,West Scotland,2018,-18.15,13.69,18.31,43.32,13.5,0.96,3.21,Hake,WESTSCOT_11,LSMSF
+1257_Ws,Marine Scotland,West Scotland,2018,-18.09,14.11,18.23,43.41,13.42,0.93,3.24,Hake,WESTSCOT_11,LSMSF
+1258_Ws,Marine Scotland,West Scotland,2018,-19.57,12.72,18.41,44.55,13.29,0.95,3.35,Hake,WESTSCOT_06,LSMSF
+1259_Ws,Marine Scotland,West Scotland,2018,-19.38,13.04,18.06,44.72,13.63,0.93,3.28,Hake,WESTSCOT_06,LSMSF
+1260_Ws,Marine Scotland,West Scotland,2018,-19.17,13.17,18.69,44.41,13.75,0.96,3.23,Hake,WESTSCOT_06,LSMSF
+1261_Ws,Marine Scotland,West Scotland,2018,-19.79,13.34,18.5,46.13,13.37,0.93,3.45,Hake,WESTSCOT_06,LSMSF
+1262_Ws,Marine Scotland,West Scotland,2018,-18.11,14.01,16.89,44.45,13.74,0.95,3.24,Hake,WESTSCOT_06,LSMSF
+1263_Ws,Marine Scotland,West Scotland,2018,-18.62,13.82,17.45,44.4,13.69,0.95,3.24,Hake,WESTSCOT_12,LSMSF
+1264_Ws,Marine Scotland,West Scotland,2018,-18.65,13.9,18.23,44.03,13.24,0.92,3.32,Hake,WESTSCOT_12,LSMSF
+1265_Ws,Marine Scotland,West Scotland,2018,-18.08,13.99,17.66,44.11,13.53,0.94,3.26,Hake,WESTSCOT_12,LSMSF
+1266_Ws,Marine Scotland,West Scotland,2018,-18.85,13.92,18.26,44.08,13.5,0.93,3.27,Hake,WESTSCOT_12,LSMSF
+1267_Ws,Marine Scotland,West Scotland,2018,-18.76,13.79,17.45,44.56,13.42,0.95,3.32,Hake,WESTSCOT_12,LSMSF
+1268_Ws,Marine Scotland,West Scotland,2018,-19.3,13.58,18.42,44.9,13.29,0.94,3.38,Hake,WESTSCOT_05,LSMSF
+1269_Ws,Marine Scotland,West Scotland,2018,-18.99,13.48,17.95,44.36,13.7,0.97,3.24,Hake,WESTSCOT_05,LSMSF
+1270_Ws,Marine Scotland,West Scotland,2018,-19.48,13.6,16.89,48.3,13.5,0.97,3.58,Hake,WESTSCOT_05,LSMSF
+1271_Ws,Marine Scotland,West Scotland,2018,-19.42,12.91,17.96,45.21,13.38,0.92,3.38,Hake,WESTSCOT_05,LSMSF
+1272_Ws,Marine Scotland,West Scotland,2018,-19.2,13.82,18.44,44.62,13.59,0.94,3.28,Hake,WESTSCOT_05,LSMSF
+1273_Ws,Marine Scotland,West Scotland,2018,-18.6,13.86,19.13,45.38,13.57,1.03,3.34,Hake,WESTSCOT_03,LSMSF
+1274_Ws,Marine Scotland,West Scotland,2018,-18.72,13.87,17.8,44.59,13.41,0.95,3.32,Hake,WESTSCOT_03,LSMSF
+1275_Ws,Marine Scotland,West Scotland,2018,-19.76,13.72,18.14,44.58,13.4,0.94,3.33,Hake,WESTSCOT_10,LSMSF
+1276_Ws,Marine Scotland,West Scotland,2018,-19.19,13.86,17.77,44.72,13.34,0.93,3.35,Hake,WESTSCOT_10,LSMSF
+1277_Ws,Marine Scotland,West Scotland,2018,-19.58,12.94,18.73,45.71,13.69,0.96,3.34,Hake,WESTSCOT_10,LSMSF
+1278_Ws,Marine Scotland,West Scotland,2018,-19.2,13.77,17.87,44.86,13.5,0.95,3.32,Hake,WESTSCOT_10,LSMSF
+1279_Ws,Marine Scotland,West Scotland,2018,-19.19,13.52,18.46,44.32,13.55,0.95,3.27,Hake,WESTSCOT_10,LSMSF
+1280_Ws,Marine Scotland,West Scotland,2018,-18.99,13.51,18.43,44.59,13.64,0.96,3.27,Hake,WESTSCOT_07,LSMSF
+1281_Ws,Marine Scotland,West Scotland,2018,-19.66,13.13,18.62,44.82,13.42,0.97,3.34,Hake,WESTSCOT_07,LSMSF
+113_NS,Marine Scotland,North,2018,-19.33,13.88,18.18,44.93,13.68,1.12,3.29,Hake,NORTH_20,LSMSF
+117_NS,Marine Scotland,North,2018,-19.09,14.23,16.63,44.04,13.54,1.09,3.25,Hake,NORTH_20,LSMSF
+128_NS,Marine Scotland,North,2018,-19.73,13.1,18.54,43.41,13.53,1.06,3.21,Hake,NORTH_18,LSMSF
+129_Ns,Marine Scotland,North,2018,-19.12,13.11,18.19,43.18,13.53,1,3.19,Hake,NORTH_18,LSMSF
+132_NS,Marine Scotland,North,2018,-19.23,14.06,17.64,45.1,13.49,1.09,3.34,Hake,NORTH_18,LSMSF
+133_NS,Marine Scotland,North,2018,-19.17,14.18,18.47,43.82,13.3,1.07,3.3,Hake,NORTH_35,LSMSF
+134_NS,Marine Scotland,North,2018,-19.15,13.53,18.93,42.68,13.15,1.07,3.24,Hake,NORTH_35,LSMSF
+162_NS,Marine Scotland,North,2018,-18.73,14.35,16.37,43.48,13.06,1.14,3.33,Hake,NORTH_10,LSMSF
+163_NS,Marine Scotland,North,2018,-19.01,13.2,18.59,43.07,13.11,0.98,3.29,Hake,NORTH_10,LSMSF
+164_NS,Marine Scotland,North,2018,-19.21,12.29,16.79,43.07,13.19,1.06,3.27,Hake,NORTH_10,LSMSF
+166_NS,Marine Scotland,North,2018,-18.61,13.85,18.26,43.59,13.24,1.02,3.29,Hake,NORTH_10,LSMSF
+168_NS,Marine Scotland,North,2018,-19.23,12.87,18.48,42.51,12.97,1.02,3.28,Hake,NORTH_12,LSMSF
+169_NS,Marine Scotland,North,2018,-19.49,12.34,18.67,43.67,13.12,1.05,3.33,Hake,NORTH_12,LSMSF
+170_NS,Marine Scotland,North,2018,-19.2,12.77,18.45,43.06,12.88,1,3.34,Hake,NORTH_12,LSMSF
+172_NS,Marine Scotland,North,2018,-18.85,12.88,18.31,43.37,13.25,1.02,3.27,Hake,NORTH_12,LSMSF
+179_NS,Marine Scotland,North,2018,-19.85,14.31,19.04,42.92,13.19,1.05,3.25,Hake,NORTH_16,LSMSF
+180_NS,Marine Scotland,North,2018,-19.11,13.36,18.13,43.45,13.31,1.01,3.26,Hake,NORTH_16,LSMSF
+187_NS,Marine Scotland,North,2018,-18.93,14.7,18.33,44.3,12.72,0.92,3.48,Hake,NORTH_01,LSMSF
+189_NS,Marine Scotland,North,2018,-19.29,14.18,17.59,42,12.81,0.97,3.28,Hake,NORTH_01,LSMSF
+190_NS,Marine Scotland,North,2018,-19.05,13.73,17.92,43.92,13.35,1.01,3.29,Hake,NORTH_01,LSMSF
+206_NS,Marine Scotland,North,2018,-18.92,13.84,17.47,43.2,13.48,1.05,3.2,Hake,NORTH_22,LSMSF
+207_Ns,Marine Scotland,North,2018,-19.33,13.09,17.98,44.78,13.72,1.03,3.26,Hake,NORTH_22,LSMSF
+208_NS,Marine Scotland,North,2018,-18.6,14.24,16.81,44.33,13.42,0.83,3.3,Hake,NORTH_22,LSMSF
+209_NS,Marine Scotland,North,2018,-19.44,13.65,18.02,43.58,13.64,1.03,3.2,Hake,NORTH_22,LSMSF
+229_NS,Marine Scotland,North,2018,-19.16,13.39,18.78,44.29,13.69,1.07,3.23,Hake,NORTH_25,LSMSF
+230_NS,Marine Scotland,North,2018,-19,13.88,18.21,43.57,13.26,1.06,3.29,Hake,NORTH_25,LSMSF
+231_NS,Marine Scotland,North,2018,-18.68,13.98,18.73,43.79,13.46,1.07,3.25,Hake,NORTH_25,LSMSF
+242_NS,Marine Scotland,North,2018,-18.77,13.8,18.58,45.42,13.93,1.02,3.26,Hake,NORTH_32,LSMSF
+243_NS,Marine Scotland,North,2018,-18.76,13.65,18.52,43.18,13.17,1.08,3.28,Hake,NORTH_32,LSMSF
+245_NS,Marine Scotland,North,2018,-19.76,12.88,17.49,47.13,13.47,0.99,3.5,Hake,NORTH_32,LSMSF
+251_NS,Marine Scotland,North,2018,-20.4,13.41,17.54,51.38,13.63,1.14,3.77,Hake,NORTH_14,LSMSF
+252_NS,Marine Scotland,North,2018,-20.04,12.55,18.68,43.32,13.27,1.02,3.26,Hake,NORTH_14,LSMSF
+253_NS,Marine Scotland,North,2018,-19.99,12.91,18.52,45.94,13.84,0.99,3.32,Hake,NORTH_14,LSMSF
+254_NS,Marine Scotland,North,2018,-19.68,12.85,18.63,43.11,13.34,1,3.23,Hake,NORTH_14,LSMSF
+255_NS,Marine Scotland,North,2018,-19.5,11.73,17.98,43.79,13.5,1.08,3.24,Hake,NORTH_14,LSMSF
+277_Ns,Marine Scotland,North,2018,-19.07,13.45,18.28,43.75,13.62,1.04,3.21,Hake,NORTH_27,LSMSF
+300_NS,Marine Scotland,North,2018,-18.61,13.02,17.55,43.29,13.15,1.03,3.29,Hake,NORTH_34,LSMSF
+302_NS,Marine Scotland,North,2018,-19.08,13.2,18.46,45.14,13.56,0.96,3.33,Hake,NORTH_34,LSMSF
+303_NS,Marine Scotland,North,2018,-19.04,13.21,18.14,43.27,13.37,1.02,3.24,Hake,NORTH_34,LSMSF
+324_NS,Marine Scotland,North,2018,-19.26,13.46,18.25,44.1,13.52,1.09,3.26,Hake,NORTH_37,LSMSF
+325_NS,Marine Scotland,North,2018,-18.99,14.43,18.13,46.57,13.88,1.01,3.36,Hake,NORTH_37,LSMSF
+326_NS,Marine Scotland,North,2018,-19.03,13.61,18.6,43.47,13.09,1.06,3.32,Hake,NORTH_37,LSMSF
+327_NS,Marine Scotland,North,2018,-19.08,13.89,18.08,43.18,13.34,1.05,3.24,Hake,NORTH_37,LSMSF
+328_NS,Marine Scotland,North,2018,-18.91,14.31,18.13,42.65,13.18,1,3.24,Hake,NORTH_37,LSMSF
+349_NS,Marine Scotland,North,2018,-19.01,13.18,17.44,43.29,13.17,1,3.29,Hake,NORTH_31,LSMSF
+350_NS,Marine Scotland,North,2018,-18.95,13.5,18.26,43.51,13.29,1.02,3.27,Hake,NORTH_31,LSMSF
+351_NS,Marine Scotland,North,2018,-18.9,13.95,18.27,43.47,12.86,1.02,3.38,Hake,NORTH_31,LSMSF
+362_NS,Marine Scotland,North,2018,-19.17,13.15,17.85,43.8,13.29,1.06,3.3,Hake,NORTH_17,LSMSF
+363_NS,Marine Scotland,North,2018,-19.26,13.4,18.09,42.67,13.02,1.02,3.28,Hake,NORTH_17,LSMSF
+370_NS,Marine Scotland,North,2018,-18.96,13.57,18.25,44.77,13.4,1,3.34,Hake,NORTH_03,LSMSF
+387_NS,Marine Scotland,North,2018,-19.13,13.33,17.94,45.08,13.59,0.93,3.32,Hake,NORTH_38,LSMSF
+388_NS,Marine Scotland,North,2018,-19.07,13.94,18.21,43.29,13.35,1.06,3.24,Hake,NORTH_38,LSMSF
+391_NS,Marine Scotland,North,2018,-19.28,13.37,18.22,42.39,13.01,1.03,3.26,Hake,NORTH_38,LSMSF
+398_NS,Marine Scotland,North,2018,-18.94,13.92,17.86,45.66,13.86,0.96,3.29,Hake,NORTH_08,LSMSF
+399_NS,Marine Scotland,North,2018,-19.05,13.67,17.22,43.27,13.44,0.96,3.22,Hake,NORTH_08,LSMSF
+400_NS,Marine Scotland,North,2018,-19.24,13.65,18.54,45.43,13.24,0.89,3.43,Hake,NORTH_08,LSMSF
+401_NS,Marine Scotland,North,2018,-19.27,13.22,17.01,43.64,13.6,1.01,3.21,Hake,NORTH_08,LSMSF
+418_NS,Marine Scotland,North,2018,-18.73,13.38,17.94,43.37,13.4,1.05,3.24,Hake,NORTH_33,LSMSF
+419_NS,Marine Scotland,North,2018,-18.7,13.03,18.27,46.02,13.82,1.01,3.33,Hake,NORTH_33,LSMSF
+420_NS,Marine Scotland,North,2018,-19.28,13.56,18.14,44.08,12.96,1,3.4,Hake,NORTH_33,LSMSF
+421_NS,Marine Scotland,North,2018,-18.66,13.15,18.39,43.41,13.22,1.08,3.28,Hake,NORTH_33,LSMSF
+432_NS,Marine Scotland,North,2018,-19.03,13.62,17.97,44.6,13.32,0.95,3.35,Hake,NORTH_09,LSMSF
+433_NS,Marine Scotland,North,2018,-19.37,14.08,18.84,45.11,12.94,1.02,3.49,Hake,NORTH_09,LSMSF
+434_NS,Marine Scotland,North,2018,-19.04,12.7,18.51,44.2,13.69,1.05,3.23,Hake,NORTH_09,LSMSF
+435_NS,Marine Scotland,North,2018,-19.19,13.02,18.62,44.68,13.07,0.94,3.42,Hake,NORTH_09,LSMSF
+436_NS,Marine Scotland,North,2018,-19.41,13.34,17.2,44.16,13.23,1.04,3.34,Hake,NORTH_09,LSMSF
+447_NS,Marine Scotland,North,2018,-18.9,12.7,17.98,43.9,13.16,1.04,3.34,Hake,NORTH_19,LSMSF
+449_NS,Marine Scotland,North,2018,-19.34,13.52,17.78,44.01,13.27,1.02,3.32,Hake,NORTH_19,LSMSF
+450_NS,Marine Scotland,North,2018,-19.48,13.29,17.82,42.66,13.23,1.06,3.22,Hake,NORTH_19,LSMSF
+464_NS,Marine Scotland,North,2018,-20.16,12.51,17.89,50.06,14.22,1.03,3.52,Hake,NORTH_13,LSMSF
+466_Ns,Marine Scotland,North,2018,-19.36,12.68,17.99,44.97,13.82,0.96,3.25,Hake,NORTH_13,LSMSF
+484_NS,Marine Scotland,North,2018,-19.35,14.09,18.06,43.17,13.29,1.09,3.25,Hake,NORTH_21,LSMSF
+485_NS,Marine Scotland,North,2018,-19.42,13.42,18.33,45.53,13.85,1.02,3.29,Hake,NORTH_21,LSMSF
+486_NS,Marine Scotland,North,2018,-19.1,13.56,17.91,43.37,13.28,1.03,3.27,Hake,NORTH_21,LSMSF
+487_NS,Marine Scotland,North,2018,-19.1,13.61,18,42.97,13.04,1.05,3.29,Hake,NORTH_21,LSMSF
+494_Ns,Marine Scotland,North,2018,-19.92,12.33,18.12,43.95,13.64,1,3.22,Hake,NORTH_15,LSMSF
+495_NS,Marine Scotland,North,2018,-18.8,13.23,18.43,45.42,13.81,0.98,3.29,Hake,NORTH_15,LSMSF
+496_NS,Marine Scotland,North,2018,-19.36,12.05,18.07,42.92,13.12,1.03,3.27,Hake,NORTH_15,LSMSF
+515_NS,Marine Scotland,North,2018,-19.44,12.81,18.56,43.18,13.3,1.09,3.25,Hake,NORTH_30,LSMSF
+524_NS,Marine Scotland,North,2018,-19.4,13.02,17.29,43.58,13.34,1,3.27,Hake,NORTH_02,LSMSF
+1285_Cor,Fish monger Port Isaac,Cornwall,2020,-19.6,13.19,18.64,49,13.76,0.92,3.56,Hake,COR_01,LSMSF
+1286_Cor,Fish monger Port Isaac,Cornwall,2020,-18.31,14.38,18.36,47.14,14.56,0.98,3.24,Hake,COR_02,LSMSF
+1287_Cor,Fish monger Port Isaac,Cornwall,2020,-18.7,13.81,18.75,47.56,14.42,0.95,3.3,Hake,COR_03,LSMSF
+FP_91,Fisheries practical,Celtic,2019,-18.87,13.67,18.31,51.6,14.07,0.99,3.67,Hake,Wadebridge,LSMSF
+FP_92,Fisheries practical,Celtic,2019,-18.89,13.61,18.44,51.26,13.89,1.03,3.69,Hake,Wadebridge,LSMSF
+FP_93,Fisheries practical,Celtic,2019,-17.94,15.35,18.41,48.5,14.48,1,3.35,Hake,Lyme Regis,LSMSF
+FP_94,Fisheries practical,Celtic,2019,-17.97,15.04,18.45,48.52,14.47,1.02,3.35,Hake,Lyme Regis,LSMSF
+FP_95,Fisheries practical,Celtic,2019,-17.87,14.3,18.62,48.31,14.53,1.04,3.33,Hake,Lyme Regis,LSMSF
+FP_96,Fisheries practical,Celtic,2019,-17.97,15.04,18.33,48.41,14.51,1.07,3.34,Hake,Lyme Regis,LSMSF
+FP_97,Fisheries practical,Celtic,2019,-17.55,15.53,18.42,47.96,14.47,1.06,3.31,Hake,Lyme Regis,LSMSF
+FP_98,Fisheries practical,Celtic,2019,-18.14,15.04,18.59,49.59,14.36,1.05,3.45,Hake,Lyme Regis,LSMSF
+FP_99,Fisheries practical,Celtic,2019,-19.17,13.54,18.64,50.03,14.09,1.01,3.55,Hake,Lyme Regis,LSMSF
+FP_100,Fisheries practical,Celtic,2019,-18.16,14.47,18.52,48.78,14.21,1.01,3.43,Hake,Lyme Regis,LSMSF
+FP_116,Fisheries practical,Celtic,2019,-18.25,14.46,18.34,49.42,14.48,1.02,3.41,Hake,St Ives,LSMSF
